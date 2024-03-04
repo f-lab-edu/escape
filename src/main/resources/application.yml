@@ -1,0 +1,5 @@
+spring:
+  config:
+    additional-location: config/
+  jpa:
+    open-in-view: false
