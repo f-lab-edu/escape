@@ -46,5 +46,5 @@ NCP(Naver Cloud Platform)를 활용한다.
 1. Jenkins 서버
    - [Standard] 2vCPU, 4GB Mem, 50GB Disk [g1]
    - CentOS 7
-     - Java 17
      - Jenkins 2.440.1
+     - Java 17
