@@ -39,7 +39,12 @@ $ java -jar build/libs/escape-0.0.1-SNAPSHOT.jar
 ### 서버구성
 NCP(Naver Cloud Platform)를 활용한다.
 1. 어플리케이션 서버
-    - [MICRO]1vCPU, 1GB Mem[g1], 50GB HDD
-    - CentOS 7
+   - [MICRO]1vCPU, 1GB Mem[g1], 50GB HDD
+   - CentOS 7
 1. DB 서버
-    - Cloud DB for MySQL (MySQL 8.0.25)
+   - Cloud DB for MySQL (MySQL 8.0.25)
+1. Jenkins 서버
+   - [Standard] 2vCPU, 4GB Mem, 50GB Disk [g1]
+   - CentOS 7
+     - Java 17
+     - Jenkins 2.440.1
