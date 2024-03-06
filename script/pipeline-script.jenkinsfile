@@ -17,5 +17,14 @@ pipeline {
                 sh "./gradlew clean bootJar"
             }
         }
+        stage('Deploy') {
+            steps {
+                sshagent(credentials: ['bora-server-key']) {
+                                   sh "scp build/libs/*.jar root@${env.SERVER_IP}:${env.SPRING_SERVER_DIR}"
+//                                    sh "scp script/deploy-script.sh ubuntu@${env.SERVER_IP}:${env.SPRING_SERVER_DIR}"
+                                   sh "ssh root@${env.SERVER_IP} 'sh java -jar ${env.SPRING_SERVER_DIR}/*.jar'"
+                               }
+            }
+        }
     }
 }
