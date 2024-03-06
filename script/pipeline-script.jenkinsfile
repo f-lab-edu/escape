@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Github') {
+            steps {
+                checkout scmGit(
+                    branches: [[name: 'main']],
+                    extensions: [submodule(parentCredentials: true, trackingSubmodules: true)],
+                    userRemoteConfigs: [[credentialsId: 'github-boradol', url: 'https://github.com/f-lab-edu/escape']]
+                )
+            }
+
+        }
+        stage('Build') {
+            steps {
+                sh "./gradlew clean bootJar"
+            }
+        }
+    }
+}
