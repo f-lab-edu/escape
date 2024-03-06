@@ -24,7 +24,7 @@ pipeline {
                         sh "ssh -o StrictHostKeyChecking=no root@${env.SERVER_IP}"
                         sh "scp build/libs/*.jar root@${env.SERVER_IP}:${env.SPRING_SERVER_DIR}"
                         sh "scp script/deploy-script.sh root@${env.SERVER_IP}:${env.SPRING_SERVER_DIR}"
-                        sh "ssh root@${env.SERVER_IP} 'sh {env.SPRING_SERVER_DIR}/deploy-script.sh'"
+                        sh "ssh root@${env.SERVER_IP} 'sh ${env.SPRING_SERVER_DIR}/deploy-script.sh'"
                     }
             }
         }
