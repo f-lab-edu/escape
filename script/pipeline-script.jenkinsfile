@@ -19,11 +19,11 @@ pipeline {
         }
         stage('Deploy') {
             steps {
-                sshagent(credentials: ['bora-server-key']) {
-                                   sh "ssh -o StrictHostKeyChecking=no root@${env.SERVER_IP}"
-                                   sh "scp build/libs/*.jar root@${env.SERVER_IP}:${env.SPRING_SERVER_DIR}"
-                                   sh "ssh root@${env.SERVER_IP} 'sh java -jar ${env.SPRING_SERVER_DIR}/*.jar'"
-                               }
+                sshagent(
+                    credentials: ['bora-server-key']) {
+                        sh "scp build/libs/*.jar root@${env.SERVER_IP}:${env.SPRING_SERVER_DIR}"
+                        sh "ssh root@${env.SERVER_IP} 'sh java -jar ${env.SPRING_SERVER_DIR}/*.jar'"
+                    }
             }
         }
     }
