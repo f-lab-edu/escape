@@ -14,6 +14,10 @@
 >     - JPA
 
 ---
+## 브랜치 전략
+[Git-Flow](https://techblog.woowahan.com/2553/)를 따른다
+
+---
 
 ## 빌드 및 실행하기
 ### 터미널 환경
