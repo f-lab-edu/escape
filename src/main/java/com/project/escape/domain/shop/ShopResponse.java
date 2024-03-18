@@ -8,7 +8,7 @@ import lombok.Getter;
 public class ShopResponse {
     private Long id;
     private String name;
-    private LocationType location;
+    private Location location;
     private String address;
     private String callNumber;
 

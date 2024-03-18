@@ -12,7 +12,7 @@ import lombok.Getter;
 
 @Getter
 @Entity
-public class Price {
+public class UnitPrice {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

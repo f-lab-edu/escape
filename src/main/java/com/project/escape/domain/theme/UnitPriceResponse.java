@@ -5,13 +5,13 @@ import lombok.Getter;
 
 @Getter
 @Builder
-public class PriceResponse {
+public class UnitPriceResponse {
     private Long id;
     private int playerCount;
     private int price;
 
-    public static PriceResponse of(Price request) {
-        return PriceResponse.builder()
+    public static UnitPriceResponse of(UnitPrice request) {
+        return UnitPriceResponse.builder()
                 .id(request.getId())
                 .playerCount(request.getPlayerCount())
                 .price(request.getPrice())

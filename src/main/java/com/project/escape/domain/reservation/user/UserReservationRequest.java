@@ -1,4 +1,4 @@
-package com.project.escape.domain.reservation;
+package com.project.escape.domain.reservation.user;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

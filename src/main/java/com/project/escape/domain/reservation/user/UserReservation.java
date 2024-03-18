@@ -1,5 +1,7 @@
-package com.project.escape.domain.reservation;
+package com.project.escape.domain.reservation.user;
 
+import com.project.escape.domain.reservation.Reservation;
+import com.project.escape.domain.reservation.ReservationStatusType;
 import com.project.escape.domain.user.User;
 import com.project.escape.global.common.BaseTimeEntity;
 import jakarta.persistence.Column;

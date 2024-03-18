@@ -17,7 +17,7 @@ public class ThemeResponse {
     private int horror;
     private int activity;
     private ShopResponse shop;
-    private List<PriceResponse> prices;
+    private List<UnitPriceResponse> unitPrices;
 
     public static ThemeResponse of(Theme request) {
         return ThemeResponse.builder()
@@ -29,7 +29,7 @@ public class ThemeResponse {
                 .horror(request.getHorror())
                 .activity(request.getActivity())
                 .shop(ShopResponse.of(request.getShop()))
-                .prices(request.getPrices().stream().map(PriceResponse::of).toList())
+                .unitPrices(request.getUnitPrices().stream().map(UnitPriceResponse::of).toList())
                 .build();
     }
 }

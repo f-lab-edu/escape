@@ -1,5 +1,8 @@
 package com.project.escape.domain.reservation;
 
+import com.project.escape.domain.reservation.user.UserReservation;
+import com.project.escape.domain.reservation.user.UserReservationRepository;
+import com.project.escape.domain.reservation.user.UserReservationRequest;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

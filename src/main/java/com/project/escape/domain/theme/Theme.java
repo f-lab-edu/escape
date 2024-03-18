@@ -39,5 +39,5 @@ public class Theme extends BaseTimeEntity {
     @JoinColumn(name = "shop_id")
     private Shop shop;
     @OneToMany(mappedBy = "theme")
-    private List<Price> prices = new ArrayList<>();
+    private List<UnitPrice> unitPrices = new ArrayList<>();
 }
