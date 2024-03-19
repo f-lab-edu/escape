@@ -2,6 +2,8 @@ package com.project.escape.global.common;
 
 import jakarta.persistence.EntityListeners;
 import jakarta.persistence.MappedSuperclass;
+import jakarta.persistence.PrePersist;
+import jakarta.persistence.PreUpdate;
 import lombok.Getter;
 import org.springframework.data.annotation.CreatedDate;
 import org.springframework.data.annotation.LastModifiedDate;
@@ -18,4 +20,15 @@ public abstract class BaseTimeEntity {
 
     @LastModifiedDate
     private LocalDateTime modifiedAt;
+
+    @PrePersist
+    public void onPrePersist() {
+        this.createdAt = LocalDateTime.now();
+        this.modifiedAt = LocalDateTime.now();
+    }
+
+    @PreUpdate
+    public void onPreUpdate() {
+        this.modifiedAt = LocalDateTime.now();
+    }
 }
