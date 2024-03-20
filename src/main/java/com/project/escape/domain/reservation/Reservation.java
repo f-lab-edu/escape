@@ -30,6 +30,8 @@ public class Reservation extends BaseTimeEntity {
     @Column(nullable = false)
     @Enumerated(EnumType.STRING)
     private ReservationStatus status = ReservationStatus.WAITING;
+    @Column(nullable = false)
+    private Boolean isDeleted = false;
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "theme_id")
     private Theme theme;
