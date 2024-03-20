@@ -12,18 +12,25 @@ import jakarta.persistence.Id;
 import jakarta.persistence.IdClass;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
+import jakarta.persistence.OneToOne;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
 @Getter
 @Entity
 @NoArgsConstructor
+@AllArgsConstructor
 @IdClass(UserReservationId.class)
 public class UserReservation extends BaseTimeEntity {
     @Id
-    private Long userId;
+    @ManyToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "user_id")
+    private User user;
     @Id
-    private Long reservationId;
+    @OneToOne(fetch = FetchType.LAZY)
+    @JoinColumn(name = "reservation_id")
+    private Reservation reservation;
     @Column(nullable = false)
     @Enumerated(EnumType.STRING)
     private UserReservationStatus status = UserReservationStatus.WAITING;
@@ -31,15 +38,9 @@ public class UserReservation extends BaseTimeEntity {
     private Boolean isSuccess;
     @Column
     private Integer recordTime;
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "userId")
-    private User user;
-    @ManyToOne(fetch = FetchType.LAZY)
-    @JoinColumn(name = "reservationId")
-    private Reservation reservation;
 
-    public void createReservation(Long userId, Long reservationId) {
-        this.userId = userId;
-        this.reservationId = reservationId;
+    public UserReservation(User user, Reservation reservation) {
+        this.user = user;
+        this.reservation = reservation;
     }
 }

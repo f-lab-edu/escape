@@ -10,6 +10,6 @@ import java.io.Serializable;
 @NoArgsConstructor
 @AllArgsConstructor
 public class UserReservationId implements Serializable {
-    private Long userId;
-    private Long reservationId;
+    private Long user;
+    private Long reservation;
 }
