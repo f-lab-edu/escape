@@ -29,7 +29,7 @@ public class Reservation extends BaseTimeEntity {
     private LocalTime time;
     @Column(nullable = false)
     @Enumerated(EnumType.STRING)
-    private ReservationStatusType status = ReservationStatusType.WAITING;
+    private ReservationStatus status = ReservationStatus.WAITING;
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "theme_id")
     private Theme theme;

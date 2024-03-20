@@ -1,11 +1,12 @@
 package com.project.escape.domain.reservation.user;
 
 import com.project.escape.domain.reservation.Reservation;
-import com.project.escape.domain.reservation.ReservationStatusType;
 import com.project.escape.domain.user.User;
 import com.project.escape.global.common.BaseTimeEntity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
+import jakarta.persistence.EnumType;
+import jakarta.persistence.Enumerated;
 import jakarta.persistence.FetchType;
 import jakarta.persistence.Id;
 import jakarta.persistence.IdClass;
@@ -24,7 +25,8 @@ public class UserReservation extends BaseTimeEntity {
     @Id
     private Long reservationId;
     @Column(nullable = false)
-    private ReservationStatusType status = ReservationStatusType.WAITING;
+    @Enumerated(EnumType.STRING)
+    private UserReservationStatus status = UserReservationStatus.WAITING;
     @Column
     private Boolean isSuccess;
     @Column
