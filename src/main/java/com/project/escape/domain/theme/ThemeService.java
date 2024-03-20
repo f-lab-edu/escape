@@ -1,5 +1,6 @@
 package com.project.escape.domain.theme;
 
+import com.project.escape.global.utils.ResponseFactory;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
@@ -7,8 +8,8 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 @Service
-@Transactional(readOnly = true)
 @RequiredArgsConstructor
+@Transactional(readOnly = true)
 public class ThemeService {
     private final ThemeRepository themeRepository;
 
@@ -22,6 +23,6 @@ public class ThemeService {
     public ThemeResponse findById(Long id) {
         return themeRepository.findById(id)
                 .map(ThemeResponse::of)
-                .orElseThrow();
+                .orElseThrow(ResponseFactory::notFound);
     }
 }
