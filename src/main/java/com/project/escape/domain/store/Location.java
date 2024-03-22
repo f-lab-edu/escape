@@ -1,4 +1,4 @@
-package com.project.escape.domain.shop;
+package com.project.escape.domain.store;
 
 public enum Location {
     SEOUL, INCHEON, DAEGU, SEJONG, DAEJEON, GWANGJU, ULSAN, BUSAN,

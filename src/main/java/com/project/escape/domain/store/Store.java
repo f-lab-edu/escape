@@ -1,4 +1,4 @@
-package com.project.escape.domain.shop;
+package com.project.escape.domain.store;
 
 import com.project.escape.global.common.BaseTimeEntity;
 import jakarta.persistence.Column;
@@ -11,7 +11,7 @@ import lombok.Getter;
 
 @Getter
 @Entity
-public class Shop extends BaseTimeEntity {
+public class Store extends BaseTimeEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;

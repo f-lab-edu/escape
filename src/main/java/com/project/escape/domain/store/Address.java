@@ -1,4 +1,4 @@
-package com.project.escape.domain.shop;
+package com.project.escape.domain.store;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Embeddable;

@@ -50,14 +50,14 @@ public class ReservationService {
 
 
     private boolean isExistsByReservationId(UserReservationRequest request) {
-        return userReservationRepository.existsById(request.getReservationId());
+        return userReservationRepository.existsByReservationId(request.getReservationId());
     }
 
     private UserReservation getUserReservation(UserReservationRequest request) {
         User user = getUser(request.getUserId());
         Reservation reservation = getReservation(request.getReservationId());
 
-        return new UserReservation(user, reservation);
+        return new UserReservation(user, reservation, request.getPlayerCount());
     }
 
     private Reservation getReservation(Long reservationId) {

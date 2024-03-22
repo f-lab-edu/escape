@@ -1,8 +1,9 @@
 package com.project.escape.domain.theme;
 
-import com.project.escape.domain.shop.Shop;
+import com.project.escape.domain.store.Store;
 import com.project.escape.global.common.BaseTimeEntity;
 import jakarta.persistence.Column;
+import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -26,18 +27,15 @@ public class Theme extends BaseTimeEntity {
     @Column(nullable = false)
     private String description;
     @Column
-    private int duration;
+    private int playtime;
     @Column
-    private int difficulty;
-    @Column
-    private int horror;
-    @Column
-    private int activity;
+    @Embedded
+    private ThemeInfo info;
     @Column(nullable = false)
     private Boolean isVisible;
     @ManyToOne
-    @JoinColumn(name = "shop_id")
-    private Shop shop;
+    @JoinColumn(name = "store_id")
+    private Store store;
     @OneToMany(mappedBy = "theme")
     private List<UnitPrice> unitPrices = new ArrayList<>();
 }
