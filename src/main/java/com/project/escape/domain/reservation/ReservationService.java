@@ -1,7 +1,6 @@
 package com.project.escape.domain.reservation;
 
 import com.project.escape.domain.reservation.user.UserReservation;
-import com.project.escape.domain.reservation.user.UserReservationId;
 import com.project.escape.domain.reservation.user.UserReservationRepository;
 import com.project.escape.domain.reservation.user.UserReservationRequest;
 import com.project.escape.domain.reservation.user.UserReservationResponse;
@@ -43,15 +42,15 @@ public class ReservationService {
     }
 
     @Transactional(readOnly = true)
-    public UserReservationResponse findByUserReservationId(Long reservationId, Long userId) {
-        UserReservation userReservation = userReservationRepository.findById(new UserReservationId(reservationId, userId))
+    public UserReservationResponse findById(Long reservationId) {
+        UserReservation userReservation = userReservationRepository.findById(reservationId)
                 .orElseThrow(ResponseFactory::notFound);
         return UserReservationResponse.of(userReservation);
     }
 
 
     private boolean isExistsByReservationId(UserReservationRequest request) {
-        return userReservationRepository.existsByReservationId(request.getReservationId());
+        return userReservationRepository.existsById(request.getReservationId());
     }
 
     private UserReservation getUserReservation(UserReservationRequest request) {

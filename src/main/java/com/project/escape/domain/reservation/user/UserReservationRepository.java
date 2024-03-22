@@ -6,8 +6,8 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 @Repository
-public interface UserReservationRepository extends JpaRepository<UserReservation, UserReservationId> {
-    boolean existsByReservationId(Long reservationId);
+public interface UserReservationRepository extends JpaRepository<UserReservation, Long> {
+    boolean existsById(Long id);
 
     List<UserReservation> findByUserId(Long userId);
 }

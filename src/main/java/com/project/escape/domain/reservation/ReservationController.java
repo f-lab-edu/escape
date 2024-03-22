@@ -35,8 +35,8 @@ public class ReservationController {
         return ok(reservationService.getUserReservationList(userId));
     }
 
-    @GetMapping("/{reservationId}/{userId}")
-    public GeneralDataResponse<UserReservationResponse> getUserReservationId(@PathVariable Long reservationId, @PathVariable Long userId) {
-        return ok(reservationService.findByUserReservationId(reservationId, userId));
+    @GetMapping("/{id}")
+    public GeneralDataResponse<UserReservationResponse> getUserReservationById(@PathVariable Long id) {
+        return ok(reservationService.findById(id));
     }
 }
