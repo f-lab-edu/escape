@@ -1,8 +1,10 @@
 package com.project.escape.domain.reservation.user;
 
 import com.project.escape.domain.reservation.Reservation;
+import com.project.escape.domain.theme.UnitPrice;
 import com.project.escape.domain.user.User;
 import com.project.escape.global.common.BaseTimeEntity;
+import com.project.escape.global.common.GeneralResponseCode;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
@@ -17,6 +19,8 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+import static com.project.escape.global.utils.ResponseFactory.badRequest;
+
 @Getter
 @Entity
 @NoArgsConstructor
@@ -29,6 +33,8 @@ public class UserReservation extends BaseTimeEntity {
     @Enumerated(EnumType.STRING)
     private UserReservationStatus status = UserReservationStatus.WAITING;
     @Column
+    private int playerCount;
+    @Column
     private Boolean isSuccess;
     @Column
     private Integer recordTime;
@@ -40,8 +46,29 @@ public class UserReservation extends BaseTimeEntity {
     @JoinColumn(name = "reservation_id")
     private Reservation reservation;
 
-    public UserReservation(User user, Reservation reservation) {
+    public UserReservation(User user, Reservation reservation, int playerCount) {
         this.user = user;
         this.reservation = reservation;
+        this.playerCount = playerCount;
+        if (validatePlayerCount()) {
+            throw badRequest(GeneralResponseCode.INVALID_PLAYER_COUNT_ERROR);
+        }
+    }
+
+    public int calculatePrice() {
+        return reservation.getTheme()
+                .getUnitPrices()
+                .stream()
+                .filter(x -> x.getPlayerCount() == playerCount)
+                .mapToInt(UnitPrice::getPrice)
+                .sum();
+
+    }
+
+    private boolean validatePlayerCount() {
+        return reservation.getTheme()
+                .getUnitPrices()
+                .stream()
+                .noneMatch(x -> x.getPlayerCount() == playerCount);
     }
 }

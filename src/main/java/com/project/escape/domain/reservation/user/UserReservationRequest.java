@@ -8,4 +8,6 @@ import lombok.Getter;
 public class UserReservationRequest {
     private Long userId;
     private Long reservationId;
+    private int playerCount;
+
 }

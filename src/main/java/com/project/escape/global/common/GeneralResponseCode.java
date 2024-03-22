@@ -12,6 +12,7 @@ public enum GeneralResponseCode {
     BAD_REQUEST(40000, "Bad request"),
     VALIDATION_ERROR(40001, "Validation error"),
     RESERVED_THEME_ERROR(40002, "Already reserved theme"),
+    INVALID_PLAYER_COUNT_ERROR(40003, "Check player Count"),
 
     UNAUTHORIZED(40100, "User unauthorized"),
     NOT_FOUND(40400, "Requested resource is not found"),

@@ -33,12 +33,13 @@ class UserReservationRepositoryTest {
     @DisplayName("회원이 방탈출 테마를 예약하면 회원의 테마 예약 데이터가 저장된다.")
     void saveUserReservation() {
         // given
-        UserReservationRequest request = new UserReservationRequest(USER_ID, RESERVATION_ID);
+        UserReservationRequest request = new UserReservationRequest(USER_ID, RESERVATION_ID, 2);
         User user = userRepository.findById(request.getUserId()).orElseThrow();
         Reservation reservation = reservationRepository.findById(request.getReservationId()).orElseThrow();
 
         // when
-        UserReservation savedUserReservation = userReservationRepository.save(new UserReservation(user, reservation));
+        UserReservation userReservation = new UserReservation(user, reservation, request.getPlayerCount());
+        UserReservation savedUserReservation = userReservationRepository.save(userReservation);
 
         // then
         assertThat(savedUserReservation.getUser().getId()).isEqualTo(USER_ID);
