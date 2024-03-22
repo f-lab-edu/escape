@@ -5,7 +5,7 @@ import com.project.escape.domain.reservation.user.UserReservationRepository;
 import com.project.escape.domain.reservation.user.UserReservationRequest;
 import com.project.escape.domain.reservation.user.UserReservationResponse;
 import com.project.escape.domain.user.User;
-import com.project.escape.domain.user.UserRepository;
+import com.project.escape.domain.user.UserService;
 import com.project.escape.global.common.GeneralResponseCode;
 import com.project.escape.global.utils.ResponseFactory;
 import lombok.RequiredArgsConstructor;
@@ -19,7 +19,7 @@ import static com.project.escape.global.utils.ResponseFactory.badRequest;
 @Service
 @RequiredArgsConstructor
 public class ReservationService {
-    private final UserRepository userRepository;
+    private final UserService userService;
     private final ReservationRepository reservationRepository;
     private final UserReservationRepository userReservationRepository;
 
@@ -66,6 +66,6 @@ public class ReservationService {
     }
 
     private User getUser(Long userId) {
-        return userRepository.findById(userId).orElseThrow(ResponseFactory::notFound);
+        return userService.me(userId).toEntity();
     }
 }
