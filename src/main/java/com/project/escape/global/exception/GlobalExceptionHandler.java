@@ -8,6 +8,13 @@ import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExcep
 
 @RestControllerAdvice
 public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
+
+    @ResponseStatus(HttpStatus.BAD_REQUEST)
+    @ExceptionHandler(value = GeneralRuntimeException.class)
+    public ExceptionResponse handlerException(GeneralRuntimeException e) {
+        return new ExceptionResponse(e.getExceptionCode());
+    }
+
     @ResponseStatus(HttpStatus.BAD_REQUEST)
     @ExceptionHandler(value = GeneralBadRequestException.class)
     public ExceptionResponse handlerException(GeneralBadRequestException e) {

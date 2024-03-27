@@ -10,3 +10,7 @@ spring:
         ddl-auto: update
         show_sql: true
     generate-ddl: true
+
+data:
+  dummy:
+    path: "src/main/resources/data/escape-data.json1"

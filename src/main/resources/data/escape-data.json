@@ -1,0 +1,5193 @@
+{
+  "hits": [
+    {
+      "title": "화생설화 : Blooming",
+      "nicknames": [
+        "ㅎㅅㅅㅎ"
+      ],
+      "letters": [
+        "화",
+        "생",
+        "생설",
+        "생설화",
+        "설",
+        "설화",
+        ":",
+        "B",
+        "Bl",
+        "Blo",
+        "Bloo",
+        "l",
+        "lo",
+        "loo",
+        "loom",
+        "o",
+        "oo",
+        "oom",
+        "oomi",
+        "om",
+        "omi",
+        "omin",
+        "m",
+        "mi",
+        "min",
+        "ming",
+        "i",
+        "in",
+        "ing",
+        "n",
+        "ng",
+        "g",
+        "ㅎ",
+        "ㅎㅅ",
+        "ㅎㅅㅅ",
+        "ㅎㅅㅅㅎ",
+        "ㅅ",
+        "ㅅㅅ",
+        "ㅅㅅㅎ",
+        "ㅅㅎ"
+      ],
+      "store_name": "비트포비아 던전 101",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5509584,
+        "lng": 126.9234725
+      },
+      "address": "서울특별시 마포구 와우산로 74 2층",
+      "description": "자식 갖기를 원하는 부부에게 아기를 점지하고, 인간세상의 출산을 돕고, 갓난 아이를 보호하는 삼신.\r\n이 삼신할매의 세계에서 나는 조수로서 일하고 있다. \r\n\r\n오늘은 또 어떤 일들을 하게 될까?",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 60,
+      "poster_loc": "비트포비아 던전 101/화생설화 : Blooming",
+      "ref_id": 2445,
+      "score_activity": 2.25,
+      "score_difficulty": 3.125,
+      "score_fear": 0.25,
+      "score_satisfy": 4.625,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 26000,
+      "thumb_loc": "비트포비아 던전 101/thumb_화생설화 : Blooming",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 286,
+      "difficultyRateTotal": 1579.5,
+      "difficultyReviewCount": 561,
+      "fearRateTotal": 28,
+      "fearReviewCount": 220,
+      "interiorRateTotal": 1315.5,
+      "interiorReviewCount": 292,
+      "isRecommendedTotal": 882,
+      "problemRateTotal": 999.5,
+      "problemReviewCount": 268,
+      "recommendReviewCount": 892,
+      "reviewCount": 1089,
+      "satisfyRateTotal": 2417.5,
+      "satisfyReviewCount": 576,
+      "store_tel": "0507-1375-2342",
+      "store_homepage": "https://xdungeon.net/layout/res/home.php?go=rev.main&s_zizum=1",
+      "storyRateTotal": 1091,
+      "storyReviewCount": 280,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.9003673094582185,
+      "difficultyTotalRating": 2.8155080213903743,
+      "fearTotalRating": 0.12727272727272726,
+      "activityTotalRating": 1.763986013986014,
+      "satisfyTotalRating": 4.197048611111111,
+      "problemTotalRating": 3.7294776119402986,
+      "storyTotalRating": 3.8964285714285714,
+      "interiorTotalRating": 4.50513698630137,
+      "actRateTotal": 1166,
+      "actReviewCount": 279,
+      "activityRateTotal": 504.5,
+      "actTotalRating": 4.17921146953405,
+      "dup_code": 2445,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "19:10",
+        "22:50"
+      ],
+      "d0_reserve_times_int": [
+        1150,
+        1370
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "10:00",
+        "10:55",
+        "11:50",
+        "12:45"
+      ],
+      "d1_reserve_times_int": [
+        600,
+        655,
+        710,
+        765
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "10:00",
+        "10:55",
+        "11:50",
+        "12:45"
+      ],
+      "d2_reserve_times_int": [
+        600,
+        655,
+        710,
+        765
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "10:55",
+        "11:50",
+        "12:45",
+        "13:40",
+        "14:35",
+        "21:55",
+        "22:50"
+      ],
+      "d3_reserve_times_int": [
+        655,
+        710,
+        765,
+        820,
+        875,
+        1315,
+        1370
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [
+        "10:55",
+        "22:50"
+      ],
+      "d4_reserve_times_int": [
+        655,
+        1370
+      ],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "22:50"
+      ],
+      "d5_reserve_times_int": [
+        1370
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=1&go=rev.main",
+      "reserve_times_d1": [
+        "09:55",
+        "12:25",
+        "17:25",
+        "20:45",
+        "21:35",
+        "22:40"
+      ],
+      "reserve_times_int_d1": [
+        595,
+        745,
+        1045,
+        1245,
+        1295,
+        1360
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=1&go=rev.main",
+      "reserve_times_d3": [],
+      "reserve_times_int_d3": [],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=1&go=rev.main",
+      "reserve_times_d2": [
+        "09:55",
+        "13:15",
+        "15:45",
+        "16:35"
+      ],
+      "reserve_times_int_d2": [
+        595,
+        795,
+        945,
+        995
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=1&go=rev.main",
+      "reserve_times_d0": [
+        "22:40"
+      ],
+      "reserve_times_int_d0": [
+        1360
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=1&go=rev.main",
+      "reserve_times_d4": [
+        "19:55",
+        "20:45",
+        "21:35",
+        "22:40"
+      ],
+      "reserve_times_int_d4": [
+        1195,
+        1245,
+        1295,
+        1360
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=1&go=rev.main",
+      "reserve_times_d5": [
+        "09:55",
+        "11:35",
+        "12:25",
+        "13:15",
+        "14:55",
+        "15:45",
+        "17:25",
+        "18:15",
+        "19:55",
+        "20:45",
+        "21:35",
+        "22:40"
+      ],
+      "reserve_times_int_d5": [
+        595,
+        695,
+        745,
+        795,
+        895,
+        945,
+        1045,
+        1095,
+        1195,
+        1245,
+        1295,
+        1360
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=1&go=rev.main",
+      "reserve_times_d6": [
+        "09:55",
+        "10:45",
+        "11:35",
+        "12:25",
+        "13:15",
+        "14:55",
+        "16:35",
+        "17:25",
+        "18:15",
+        "19:05",
+        "19:55",
+        "20:45",
+        "21:35",
+        "22:40"
+      ],
+      "reserve_times_int_d6": [
+        595,
+        645,
+        695,
+        745,
+        795,
+        895,
+        995,
+        1045,
+        1095,
+        1145,
+        1195,
+        1245,
+        1295,
+        1360
+      ]
+    },
+    {
+      "title": "대호시장 살인사건",
+      "nicknames": [
+        "ㄷㅎㅅㅈㅅㅇㅅㄱ"
+      ],
+      "letters": [
+        "대",
+        "호",
+        "호시",
+        "호시장",
+        "시",
+        "시장",
+        "장",
+        "살",
+        "살인",
+        "살인사",
+        "살인사건",
+        "인",
+        "인사",
+        "인사건",
+        "사",
+        "사건",
+        "건",
+        "ㄷ",
+        "ㄷㅎ",
+        "ㄷㅎㅅ",
+        "ㄷㅎㅅㅈ",
+        "ㅎ",
+        "ㅎㅅ",
+        "ㅎㅅㅈ",
+        "ㅎㅅㅈㅅ",
+        "ㅅ",
+        "ㅅㅈ",
+        "ㅅㅈㅅ",
+        "ㅅㅈㅅㅇ",
+        "ㅈ",
+        "ㅈㅅ",
+        "ㅈㅅㅇ",
+        "ㅈㅅㅇㅅ",
+        "ㅅㅇ",
+        "ㅅㅇㅅ",
+        "ㅅㅇㅅㄱ",
+        "ㅇ",
+        "ㅇㅅ",
+        "ㅇㅅㄱ",
+        "ㅅㄱ",
+        "ㄱ"
+      ],
+      "store_name": "비트포비아 강남 던전",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "강남",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.497514,
+        "lng": 127.0310602
+      },
+      "address": "서울 강남구 강남대로 84길 33",
+      "description": "대호 시장에 위치한 집에서 한 남자의 사체가 발견된다. \r\n\r\n사인은 손목의 상처로 인한 과다출혈이었고,\r\n\r\n사체의 곁에서 유서가 발견되었기에 자살이라 보였다.\r\n\r\n \r\n\r\n하지만 이 사건이 단순한 자살이 아닌\r\n\r\n교묘하게 계획된 살인이 아닐까 의구심이 들기 시작한 당신은\r\n\r\n강력반 동료들과 함께 피해자와 관련된 사람들을 용의자로 지목해\r\n\r\n본격적으로 수사를 진행하기 시작하는데…",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 60,
+      "poster_loc": "비트포비아 강남 던전/대호시장 살인사건",
+      "ref_id": 1972,
+      "score_activity": 3.52174,
+      "score_difficulty": 3.86957,
+      "score_fear": 1.26087,
+      "score_satisfy": 4.65217,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "비트포비아 강남 던전/thumb_대호시장 살인사건",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 237,
+      "difficultyRateTotal": 1734,
+      "difficultyReviewCount": 488,
+      "fearRateTotal": 234,
+      "fearReviewCount": 205,
+      "interiorRateTotal": 904.5,
+      "interiorReviewCount": 212,
+      "isRecommendedTotal": 750,
+      "problemRateTotal": 757.5,
+      "problemReviewCount": 203,
+      "recommendReviewCount": 767,
+      "reviewCount": 997,
+      "satisfyRateTotal": 2021.5,
+      "satisfyReviewCount": 493,
+      "store_tel": "02-555-4360",
+      "store_homepage": "https://xdungeon.net/layout/res/home.php?go=rev.main&s_zizum=2",
+      "storyRateTotal": 808,
+      "storyReviewCount": 209,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8676028084252758,
+      "difficultyTotalRating": 3.55327868852459,
+      "fearTotalRating": 1.1414634146341462,
+      "activityTotalRating": 3.19831223628692,
+      "satisfyTotalRating": 4.100405679513185,
+      "problemTotalRating": 3.731527093596059,
+      "storyTotalRating": 3.866028708133971,
+      "interiorTotalRating": 4.2665094339622645,
+      "actRateTotal": 783,
+      "actReviewCount": 204,
+      "activityRateTotal": 758,
+      "actTotalRating": 3.838235294117647,
+      "dup_code": 1972,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "22:30"
+      ],
+      "d0_reserve_times_int": [
+        1350
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "13:10",
+        "15:50",
+        "17:10",
+        "19:50",
+        "22:30"
+      ],
+      "d1_reserve_times_int": [
+        790,
+        950,
+        1030,
+        1190,
+        1350
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "13:10",
+        "15:50",
+        "18:30",
+        "22:30"
+      ],
+      "d2_reserve_times_int": [
+        790,
+        950,
+        1110,
+        1350
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "22:30"
+      ],
+      "d3_reserve_times_int": [
+        1350
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [
+        "10:10"
+      ],
+      "d4_reserve_times_int": [
+        610
+      ],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "22:10"
+      ],
+      "d5_reserve_times_int": [
+        1330
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=2&go=rev.main",
+      "reserve_times_d1": [
+        "15:50",
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d1": [
+        950,
+        1270,
+        1350
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=2&go=rev.main",
+      "reserve_times_d3": [],
+      "reserve_times_int_d3": [],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=2&go=rev.main",
+      "reserve_times_d2": [
+        "11:50",
+        "21:10"
+      ],
+      "reserve_times_int_d2": [
+        710,
+        1270
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=2&go=rev.main",
+      "reserve_times_d0": [
+        "22:30"
+      ],
+      "reserve_times_int_d0": [
+        1350
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=2&go=rev.main",
+      "reserve_times_d4": [
+        "19:30",
+        "20:50",
+        "22:10"
+      ],
+      "reserve_times_int_d4": [
+        1170,
+        1250,
+        1330
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=2&go=rev.main",
+      "reserve_times_d5": [
+        "11:50",
+        "14:30",
+        "15:50",
+        "17:10",
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d5": [
+        710,
+        870,
+        950,
+        1030,
+        1270,
+        1350
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=2&go=rev.main",
+      "reserve_times_d6": [
+        "11:50",
+        "13:10",
+        "14:30",
+        "15:50",
+        "17:10",
+        "18:30",
+        "19:50",
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d6": [
+        710,
+        790,
+        870,
+        950,
+        1030,
+        1110,
+        1190,
+        1270,
+        1350
+      ]
+    },
+    {
+      "title": "SILENT",
+      "nicknames": [
+        "사일런트",
+        "ㅅㅇㄹㅌ"
+      ],
+      "letters": [
+        "S",
+        "I",
+        "IL",
+        "ILE",
+        "ILEN",
+        "L",
+        "LE",
+        "LEN",
+        "LENT",
+        "E",
+        "EN",
+        "ENT",
+        "N",
+        "NT",
+        "T",
+        "사",
+        "사일",
+        "사일런",
+        "사일런트",
+        "일",
+        "일런",
+        "일런트",
+        "런",
+        "런트",
+        "트",
+        "ㅅ",
+        "ㅅㅇ",
+        "ㅅㅇㄹ",
+        "ㅅㅇㄹㅌ",
+        "ㅇ",
+        "ㅇㄹ",
+        "ㅇㄹㅌ",
+        "ㄹ",
+        "ㄹㅌ",
+        "ㅌ"
+      ],
+      "store_name": "포인트나인 홍대점",
+      "store_nicknames": [
+        ""
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5494736,
+        "lng": 126.919633
+      },
+      "address": "서울특별시 마포구 독막로7길 40 지하1층",
+      "description": "어느 날 옛 친구로 부터 편지 한통이 도착했다.",
+      "isopen": true,
+      "player_count": 0,
+      "playtime": 75,
+      "poster_loc": "포인트나인 홍대점/SILENT",
+      "ref_id": 2762,
+      "score_activity": 0,
+      "score_difficulty": 0,
+      "score_fear": 0,
+      "score_satisfy": 0,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 28000,
+      "thumb_loc": "포인트나인 홍대점/thumb_SILENT",
+      "reserve_url": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-01-17&s_zizum=6&go=rev.make",
+      "reserve_times": [
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int": [
+        1345,
+        1435
+      ],
+      "activityReviewCount": 243,
+      "difficultyRateTotal": 1535,
+      "difficultyReviewCount": 449,
+      "fearRateTotal": 566.5,
+      "fearReviewCount": 255,
+      "interiorRateTotal": 1071.5,
+      "interiorReviewCount": 241,
+      "isRecommendedTotal": 734,
+      "problemRateTotal": 889,
+      "problemReviewCount": 230,
+      "recommendReviewCount": 744,
+      "reviewCount": 882,
+      "satisfyRateTotal": 1986.5,
+      "satisfyReviewCount": 456,
+      "store_tel": "0507-1365-0538",
+      "store_homepage": "https://point-nine.com/",
+      "storyRateTotal": 1012,
+      "storyReviewCount": 238,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.9104308390022676,
+      "difficultyTotalRating": 3.4187082405345213,
+      "fearTotalRating": 2.2215686274509805,
+      "activityTotalRating": 2.4670781893004117,
+      "satisfyTotalRating": 4.356359649122807,
+      "problemTotalRating": 3.865217391304348,
+      "storyTotalRating": 4.2521008403361344,
+      "interiorTotalRating": 4.446058091286307,
+      "actRateTotal": 1080.5,
+      "actReviewCount": 241,
+      "activityRateTotal": 599.5,
+      "actTotalRating": 4.483402489626556,
+      "dup_code": 2762,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-28&s_zizum=6&go=rev.make",
+      "reserve_times_d1": [
+        "11:55",
+        "13:25",
+        "20:55",
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int_d1": [
+        715,
+        805,
+        1255,
+        1345,
+        1435
+      ],
+      "reserve_url_d3": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-30&s_zizum=6&go=rev.make",
+      "reserve_times_d3": [],
+      "reserve_times_int_d3": [],
+      "reserve_url_d2": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-29&s_zizum=6&go=rev.make",
+      "reserve_times_d2": [
+        "10:25",
+        "13:25",
+        "14:55",
+        "17:55",
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int_d2": [
+        625,
+        805,
+        895,
+        1075,
+        1345,
+        1435
+      ],
+      "reserve_url_d0": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-27&s_zizum=6&go=rev.make",
+      "reserve_times_d0": [
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int_d0": [
+        1345,
+        1435
+      ],
+      "reserve_url_d4": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-31&s_zizum=6&go=rev.make",
+      "reserve_times_d4": [
+        "10:25",
+        "19:25",
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int_d4": [
+        625,
+        1165,
+        1345,
+        1435
+      ],
+      "reserve_url_d5": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-04-01&s_zizum=6&go=rev.make",
+      "reserve_times_d5": [
+        "10:25",
+        "11:55",
+        "13:25",
+        "14:55",
+        "16:25",
+        "17:55",
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int_d5": [
+        625,
+        715,
+        805,
+        895,
+        985,
+        1075,
+        1345,
+        1435
+      ],
+      "reserve_url_d6": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-04-02&s_zizum=6&go=rev.make",
+      "reserve_times_d6": [
+        "10:25",
+        "11:55",
+        "13:25",
+        "14:55",
+        "16:25",
+        "17:55",
+        "20:55",
+        "22:25",
+        "23:55"
+      ],
+      "reserve_times_int_d6": [
+        625,
+        715,
+        805,
+        895,
+        985,
+        1075,
+        1255,
+        1345,
+        1435
+      ]
+    },
+    {
+      "title": "LOST KINGDOM2 : 대탐험의 시작",
+      "nicknames": [
+        "로킹2",
+        "로스트킹덤2",
+        "ㄹㅅㅌㅋㄷㅌㄷㅌㅎㅇㅅㅈ",
+        "ㄹㅅㅌㅋㄷㅇㄷㅌㅎㅇㅅㅈ"
+      ],
+      "letters": [
+        "L",
+        "O",
+        "OS",
+        "OST",
+        "S",
+        "ST",
+        "T",
+        "K",
+        "KI",
+        "KIN",
+        "KING",
+        "I",
+        "IN",
+        "ING",
+        "INGD",
+        "N",
+        "NG",
+        "NGD",
+        "NGDO",
+        "G",
+        "GD",
+        "GDO",
+        "GDOM",
+        "D",
+        "DO",
+        "DOM",
+        "DOM2",
+        "OM",
+        "OM2",
+        "M",
+        "M2",
+        "2",
+        ":",
+        "대",
+        "대탐",
+        "대탐험",
+        "대탐험의",
+        "탐",
+        "탐험",
+        "탐험의",
+        "험",
+        "험의",
+        "의",
+        "시",
+        "시작",
+        "작",
+        "로",
+        "로킹",
+        "로킹2",
+        "킹",
+        "킹2",
+        "로스",
+        "로스트",
+        "로스트킹",
+        "스",
+        "스트",
+        "스트킹",
+        "스트킹덤",
+        "트",
+        "트킹",
+        "트킹덤",
+        "트킹덤2",
+        "킹덤",
+        "킹덤2",
+        "덤",
+        "덤2",
+        "ㄹ",
+        "ㄹㅅ",
+        "ㄹㅅㅌ",
+        "ㄹㅅㅌㅋ",
+        "ㅅ",
+        "ㅅㅌ",
+        "ㅅㅌㅋ",
+        "ㅅㅌㅋㄷ",
+        "ㅌ",
+        "ㅌㅋ",
+        "ㅌㅋㄷ",
+        "ㅌㅋㄷㅌ",
+        "ㅋ",
+        "ㅋㄷ",
+        "ㅋㄷㅌ",
+        "ㅋㄷㅌㄷ",
+        "ㄷ",
+        "ㄷㅌ",
+        "ㄷㅌㄷ",
+        "ㄷㅌㄷㅌ",
+        "ㅌㄷ",
+        "ㅌㄷㅌ",
+        "ㅌㄷㅌㅎ",
+        "ㄷㅌㅎ",
+        "ㄷㅌㅎㅇ",
+        "ㅌㅎ",
+        "ㅌㅎㅇ",
+        "ㅌㅎㅇㅅ",
+        "ㅎ",
+        "ㅎㅇ",
+        "ㅎㅇㅅ",
+        "ㅎㅇㅅㅈ",
+        "ㅇ",
+        "ㅇㅅ",
+        "ㅇㅅㅈ",
+        "ㅅㅈ",
+        "ㅈ",
+        "ㅌㅋㄷㅇ",
+        "ㅋㄷㅇ",
+        "ㅋㄷㅇㄷ",
+        "ㄷㅇ",
+        "ㄷㅇㄷ",
+        "ㄷㅇㄷㅌ",
+        "ㅇㄷ",
+        "ㅇㄷㅌ",
+        "ㅇㄷㅌㅎ"
+      ],
+      "store_name": "비트포비아 강남 던전2",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "강남",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.4962666,
+        "lng": 127.0301331
+      },
+      "address": "서울 강남구 테헤란로4길 32 우정에쉐르1 지하1층",
+      "description": "지난번 모험에서 발견한 아틀란티스의 유물은 나를 미지의 섬으로 향하게 \r\n만들었다.\r\n \r\n섬에 상륙하여 주변을 둘러보고 있던 중, 어디선가 무장한 사람들이 나타나\r\n알 수 없는 소리를 지르며 날 포박했고, 그대로 지하 감옥에 갇히게 되었다.\r\n \r\n수감된지 얼마 지나지 않아,\r\n\"새로운 침입자가 나타났다!\" 라는 소리와 함께 감옥을 지키던 사람들은 \r\n밖으로 몰려나갔다. \r\n \r\n혼란을 틈타 감옥을 탈출하려는 찰나 바닥에 떨어져 있는 편지 하나를 \r\n발견했다. \r\n \r\n'지하 감옥에 아틀란티스의 비밀에 대해 아는 자가 갇혀 있습니다.'",
+      "isopen": true,
+      "player_count": 3,
+      "playtime": 75,
+      "poster_loc": "비트포비아 강남 던전2/LOST KINGDOM2 : 대탐험의 시작",
+      "ref_id": 2465,
+      "score_activity": 4.5,
+      "score_difficulty": 4,
+      "score_fear": 1,
+      "score_satisfy": 3,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 28000,
+      "thumb_loc": "비트포비아 강남 던전2/thumb_LOST KINGDOM2 : 대탐험의 시작",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 229,
+      "difficultyRateTotal": 1456.5,
+      "difficultyReviewCount": 457,
+      "fearRateTotal": 92,
+      "fearReviewCount": 179,
+      "interiorRateTotal": 900.5,
+      "interiorReviewCount": 198,
+      "isRecommendedTotal": 723,
+      "problemRateTotal": 696,
+      "problemReviewCount": 182,
+      "recommendReviewCount": 733,
+      "reviewCount": 943,
+      "satisfyRateTotal": 1905.5,
+      "satisfyReviewCount": 457,
+      "store_tel": "02-501-0323",
+      "store_homepage": "https://www.xphobia.net/",
+      "storyRateTotal": 693,
+      "storyReviewCount": 187,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8780487804878049,
+      "difficultyTotalRating": 3.187089715536105,
+      "fearTotalRating": 0.5139664804469274,
+      "activityTotalRating": 3.812227074235808,
+      "satisfyTotalRating": 4.169584245076586,
+      "problemTotalRating": 3.824175824175824,
+      "storyTotalRating": 3.7058823529411766,
+      "interiorTotalRating": 4.547979797979798,
+      "actRateTotal": 822.5,
+      "actReviewCount": 192,
+      "activityRateTotal": 873,
+      "actTotalRating": 4.283854166666667,
+      "dup_code": 2465,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "10:10",
+        "11:10",
+        "13:10",
+        "21:10",
+        "22:10"
+      ],
+      "d0_reserve_times_int": [
+        610,
+        670,
+        790,
+        1270,
+        1330
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "11:10",
+        "12:10",
+        "13:10",
+        "20:10",
+        "21:10",
+        "22:10"
+      ],
+      "d1_reserve_times_int": [
+        670,
+        730,
+        790,
+        1210,
+        1270,
+        1330
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "10:10",
+        "11:10",
+        "12:10",
+        "13:10",
+        "14:10",
+        "15:10",
+        "16:10",
+        "17:10",
+        "18:10",
+        "19:10",
+        "20:10",
+        "21:10",
+        "22:10"
+      ],
+      "d2_reserve_times_int": [
+        610,
+        670,
+        730,
+        790,
+        850,
+        910,
+        970,
+        1030,
+        1090,
+        1150,
+        1210,
+        1270,
+        1330
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "10:10",
+        "11:10",
+        "12:10",
+        "13:10",
+        "18:10",
+        "19:10",
+        "22:10"
+      ],
+      "d3_reserve_times_int": [
+        610,
+        670,
+        730,
+        790,
+        1090,
+        1150,
+        1330
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [],
+      "d4_reserve_times_int": [],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "18:10",
+        "22:10"
+      ],
+      "d5_reserve_times_int": [
+        1090,
+        1330
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=4&go=rev.main",
+      "reserve_times_d1": [
+        "10:10",
+        "12:10",
+        "16:10",
+        "17:10",
+        "18:10",
+        "19:10",
+        "20:10",
+        "22:10"
+      ],
+      "reserve_times_int_d1": [
+        610,
+        730,
+        970,
+        1030,
+        1090,
+        1150,
+        1210,
+        1330
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=4&go=rev.main",
+      "reserve_times_d3": [
+        "22:10"
+      ],
+      "reserve_times_int_d3": [
+        1330
+      ],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=4&go=rev.main",
+      "reserve_times_d2": [
+        "10:10",
+        "12:10",
+        "14:10",
+        "15:10",
+        "16:10",
+        "17:10",
+        "22:10"
+      ],
+      "reserve_times_int_d2": [
+        610,
+        730,
+        850,
+        910,
+        970,
+        1030,
+        1330
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=4&go=rev.main",
+      "reserve_times_d0": [
+        "22:10"
+      ],
+      "reserve_times_int_d0": [
+        1330
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=4&go=rev.main",
+      "reserve_times_d4": [
+        "10:10",
+        "12:10",
+        "19:10",
+        "20:10",
+        "21:10",
+        "22:10"
+      ],
+      "reserve_times_int_d4": [
+        610,
+        730,
+        1150,
+        1210,
+        1270,
+        1330
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=4&go=rev.main",
+      "reserve_times_d5": [
+        "10:10",
+        "11:10",
+        "12:10",
+        "13:10",
+        "14:10",
+        "15:10",
+        "16:10",
+        "17:10",
+        "18:10",
+        "19:10",
+        "20:10",
+        "21:10",
+        "22:10"
+      ],
+      "reserve_times_int_d5": [
+        610,
+        670,
+        730,
+        790,
+        850,
+        910,
+        970,
+        1030,
+        1090,
+        1150,
+        1210,
+        1270,
+        1330
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=4&go=rev.main",
+      "reserve_times_d6": [
+        "10:10",
+        "11:10",
+        "12:10",
+        "13:10",
+        "14:10",
+        "15:10",
+        "16:10",
+        "17:10",
+        "18:10",
+        "19:10",
+        "20:10",
+        "21:10",
+        "22:10"
+      ],
+      "reserve_times_int_d6": [
+        610,
+        670,
+        730,
+        790,
+        850,
+        910,
+        970,
+        1030,
+        1090,
+        1150,
+        1210,
+        1270,
+        1330
+      ]
+    },
+    {
+      "title": "경성 연쇄실종사건",
+      "nicknames": [
+        "ㄱㅅㅇㅅㅅㅈㅅㄱ"
+      ],
+      "letters": [
+        "경",
+        "성",
+        "연",
+        "연쇄",
+        "연쇄실",
+        "연쇄실종",
+        "쇄",
+        "쇄실",
+        "쇄실종",
+        "쇄실종사",
+        "실",
+        "실종",
+        "실종사",
+        "실종사건",
+        "종",
+        "종사",
+        "종사건",
+        "사",
+        "사건",
+        "건",
+        "ㄱ",
+        "ㄱㅅ",
+        "ㄱㅅㅇ",
+        "ㄱㅅㅇㅅ",
+        "ㅅ",
+        "ㅅㅇ",
+        "ㅅㅇㅅ",
+        "ㅅㅇㅅㅅ",
+        "ㅇ",
+        "ㅇㅅ",
+        "ㅇㅅㅅ",
+        "ㅇㅅㅅㅈ",
+        "ㅅㅅ",
+        "ㅅㅅㅈ",
+        "ㅅㅅㅈㅅ",
+        "ㅅㅈ",
+        "ㅅㅈㅅ",
+        "ㅅㅈㅅㄱ",
+        "ㅈ",
+        "ㅈㅅ",
+        "ㅈㅅㄱ",
+        "ㅅㄱ"
+      ],
+      "store_name": "비트포비아 홍대 던전3",
+      "store_nicknames": [
+        "비포"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5549034,
+        "lng": 126.928534
+      },
+      "address": "서울특별시 마포구 와우산로29길 21 3층",
+      "description": "시스템을 이용해 시공간을 넘나드는 수사가 가능해진 사회. 의문의 연쇄실종사건에 대한 진상을 파헤치기 위해 우리는 포탈을 열고 1930년의 경성으로 향한다",
+      "isopen": true,
+      "playtime": 70,
+      "poster_loc": "비트포비아 홍대 던전3/경성 연쇄실종사건",
+      "ref_id": 3497,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 28000,
+      "thumb_loc": "비트포비아 홍대 던전3/thumb_경성 연쇄실종사건",
+      "reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 227,
+      "difficultyRateTotal": 1418.5,
+      "difficultyReviewCount": 418,
+      "fearRateTotal": 112.5,
+      "fearReviewCount": 188,
+      "interiorRateTotal": 1009.5,
+      "interiorReviewCount": 219,
+      "isRecommendedTotal": 672,
+      "problemRateTotal": 849,
+      "problemReviewCount": 209,
+      "recommendReviewCount": 679,
+      "reviewCount": 819,
+      "satisfyRateTotal": 1844.5,
+      "satisfyReviewCount": 425,
+      "store_tel": "0507-1316-9421",
+      "store_homepage": "https://www.xphobia.net/",
+      "storyRateTotal": 912.5,
+      "storyReviewCount": 215,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.905982905982906,
+      "difficultyTotalRating": 3.3935406698564594,
+      "fearTotalRating": 0.598404255319149,
+      "activityTotalRating": 2.6343612334801763,
+      "satisfyTotalRating": 4.34,
+      "problemTotalRating": 4.062200956937799,
+      "storyTotalRating": 4.244186046511628,
+      "interiorTotalRating": 4.609589041095891,
+      "actRateTotal": 903,
+      "actReviewCount": 209,
+      "activityRateTotal": 598,
+      "actTotalRating": 4.320574162679426,
+      "dup_code": 3497,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d0_reserve_times": [
+        "09:20",
+        "10:20",
+        "19:20"
+      ],
+      "d0_reserve_times_int": [
+        560,
+        620,
+        1160
+      ],
+      "d1_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d1_reserve_times": [
+        "19:20"
+      ],
+      "d1_reserve_times_int": [
+        1160
+      ],
+      "d2_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d2_reserve_times": [],
+      "d2_reserve_times_int": [],
+      "d3_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d3_reserve_times": [],
+      "d3_reserve_times_int": [],
+      "d4_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d4_reserve_times": [],
+      "d4_reserve_times_int": [],
+      "d5_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d5_reserve_times": [],
+      "d5_reserve_times_int": [],
+      "d6_reserve_url": "https://booking.naver.com/booking/12/bizes/734452/items/4630239",
+      "d6_reserve_times": [],
+      "d6_reserve_times_int": [],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=5&go=rev.main",
+      "reserve_times_d1": [
+        "09:40",
+        "10:40",
+        "11:40",
+        "13:40",
+        "14:40",
+        "15:40",
+        "16:40",
+        "17:40",
+        "20:40",
+        "21:40"
+      ],
+      "reserve_times_int_d1": [
+        580,
+        640,
+        700,
+        820,
+        880,
+        940,
+        1000,
+        1060,
+        1240,
+        1300
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=5&go=rev.main",
+      "reserve_times_d3": [],
+      "reserve_times_int_d3": [],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=5&go=rev.main",
+      "reserve_times_d2": [
+        "10:40",
+        "11:40",
+        "12:40"
+      ],
+      "reserve_times_int_d2": [
+        640,
+        700,
+        760
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=5&go=rev.main",
+      "reserve_times_d0": [
+        "22:40"
+      ],
+      "reserve_times_int_d0": [
+        1360
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=5&go=rev.main",
+      "reserve_times_d4": [
+        "09:40",
+        "21:40",
+        "22:40"
+      ],
+      "reserve_times_int_d4": [
+        580,
+        1300,
+        1360
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=5&go=rev.main",
+      "reserve_times_d5": [
+        "09:40",
+        "10:40",
+        "11:40",
+        "12:40",
+        "13:40",
+        "14:40",
+        "15:40",
+        "16:40",
+        "17:40",
+        "19:40",
+        "20:40",
+        "21:40",
+        "22:40"
+      ],
+      "reserve_times_int_d5": [
+        580,
+        640,
+        700,
+        760,
+        820,
+        880,
+        940,
+        1000,
+        1060,
+        1180,
+        1240,
+        1300,
+        1360
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=5&go=rev.main",
+      "reserve_times_d6": [
+        "09:40",
+        "10:40",
+        "11:40",
+        "12:40",
+        "13:40",
+        "14:40",
+        "15:40",
+        "16:40",
+        "17:40",
+        "18:40",
+        "19:40",
+        "20:40",
+        "22:40"
+      ],
+      "reserve_times_int_d6": [
+        580,
+        640,
+        700,
+        760,
+        820,
+        880,
+        940,
+        1000,
+        1060,
+        1120,
+        1180,
+        1240,
+        1360
+      ]
+    },
+    {
+      "title": "MAYDAY",
+      "nicknames": [
+        "메이데이",
+        "ㅁㅇㄷㅇ"
+      ],
+      "letters": [
+        "M",
+        "A",
+        "AY",
+        "AYD",
+        "AYDA",
+        "Y",
+        "YD",
+        "YDA",
+        "YDAY",
+        "D",
+        "DA",
+        "DAY",
+        "메",
+        "메이",
+        "메이데",
+        "메이데이",
+        "이",
+        "이데",
+        "이데이",
+        "데",
+        "데이",
+        "ㅁ",
+        "ㅁㅇ",
+        "ㅁㅇㄷ",
+        "ㅁㅇㄷㅇ",
+        "ㅇ",
+        "ㅇㄷ",
+        "ㅇㄷㅇ",
+        "ㄷ",
+        "ㄷㅇ"
+      ],
+      "store_name": "비트포비아 강남 던전2",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "강남",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.4962666,
+        "lng": 127.0301331
+      },
+      "address": "서울 강남구 테헤란로4길 32 우정에쉐르1 지하1층",
+      "description": "당신과 HOWARD는 어렸을 때부터 우주탐사를 꿈꾸며 성장했고,\r\n둘은 마침내 우주연구원이 되어 꿈을 이룬다.\r\n \r\n이번 우주탐사대에 뽑힌 당신은 \r\n탐사를 마치고 지구로 복귀하려 하는데...",
+      "isopen": true,
+      "player_count": 4,
+      "playtime": 65,
+      "poster_loc": "비트포비아 강남 던전2/MAYDAY",
+      "ref_id": 2472,
+      "score_activity": 2,
+      "score_difficulty": 3,
+      "score_fear": 1.5,
+      "score_satisfy": 4.5,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 27000,
+      "thumb_loc": "비트포비아 강남 던전2/thumb_MAYDAY",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 181,
+      "difficultyRateTotal": 1375,
+      "difficultyReviewCount": 438,
+      "fearRateTotal": 216.5,
+      "fearReviewCount": 173,
+      "interiorRateTotal": 833,
+      "interiorReviewCount": 186,
+      "isRecommendedTotal": 657,
+      "problemRateTotal": 661,
+      "problemReviewCount": 172,
+      "recommendReviewCount": 663,
+      "reviewCount": 853,
+      "satisfyRateTotal": 1830,
+      "satisfyReviewCount": 441,
+      "store_tel": "02-501-0323",
+      "store_homepage": "https://www.xphobia.net/",
+      "storyRateTotal": 692.5,
+      "storyReviewCount": 178,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8815943728018758,
+      "difficultyTotalRating": 3.1392694063926943,
+      "fearTotalRating": 1.2514450867052025,
+      "activityTotalRating": 2.2900552486187844,
+      "satisfyTotalRating": 4.149659863945578,
+      "problemTotalRating": 3.8430232558139537,
+      "storyTotalRating": 3.890449438202247,
+      "interiorTotalRating": 4.478494623655914,
+      "actRateTotal": 751,
+      "actReviewCount": 178,
+      "activityRateTotal": 414.5,
+      "actTotalRating": 4.219101123595506,
+      "dup_code": 2472,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "10:00",
+        "11:25",
+        "18:30",
+        "19:55",
+        "22:45"
+      ],
+      "d0_reserve_times_int": [
+        600,
+        685,
+        1110,
+        1195,
+        1365
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "10:00",
+        "12:50",
+        "14:15",
+        "18:30",
+        "21:20",
+        "22:45"
+      ],
+      "d1_reserve_times_int": [
+        600,
+        770,
+        855,
+        1110,
+        1280,
+        1365
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "11:25",
+        "12:50",
+        "14:15",
+        "15:40",
+        "18:30",
+        "19:55",
+        "21:20",
+        "22:45"
+      ],
+      "d2_reserve_times_int": [
+        685,
+        770,
+        855,
+        940,
+        1110,
+        1195,
+        1280,
+        1365
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "11:25",
+        "12:50",
+        "14:15",
+        "22:45"
+      ],
+      "d3_reserve_times_int": [
+        685,
+        770,
+        855,
+        1365
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [],
+      "d4_reserve_times_int": [],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "21:20"
+      ],
+      "d5_reserve_times_int": [
+        1280
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=4&go=rev.main",
+      "reserve_times_d1": [
+        "11:25",
+        "12:50",
+        "15:35",
+        "16:55",
+        "18:15",
+        "22:15"
+      ],
+      "reserve_times_int_d1": [
+        685,
+        770,
+        935,
+        1015,
+        1095,
+        1335
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=4&go=rev.main",
+      "reserve_times_d3": [],
+      "reserve_times_int_d3": [],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=4&go=rev.main",
+      "reserve_times_d2": [
+        "11:25",
+        "12:50"
+      ],
+      "reserve_times_int_d2": [
+        685,
+        770
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=4&go=rev.main",
+      "reserve_times_d0": [
+        "22:15"
+      ],
+      "reserve_times_int_d0": [
+        1335
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=4&go=rev.main",
+      "reserve_times_d4": [
+        "22:15"
+      ],
+      "reserve_times_int_d4": [
+        1335
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=4&go=rev.main",
+      "reserve_times_d5": [
+        "11:25",
+        "12:50",
+        "14:15",
+        "15:35",
+        "16:55",
+        "18:15",
+        "20:50",
+        "22:15"
+      ],
+      "reserve_times_int_d5": [
+        685,
+        770,
+        855,
+        935,
+        1015,
+        1095,
+        1250,
+        1335
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=4&go=rev.main",
+      "reserve_times_d6": [
+        "10:00",
+        "11:25",
+        "12:50",
+        "14:15",
+        "15:35",
+        "16:55",
+        "18:15",
+        "19:35",
+        "20:50",
+        "22:15"
+      ],
+      "reserve_times_int_d6": [
+        600,
+        685,
+        770,
+        855,
+        935,
+        1015,
+        1095,
+        1175,
+        1250,
+        1335
+      ]
+    },
+    {
+      "title": "디스토피아",
+      "nicknames": [
+        "dystopia",
+        "ㄷㅅㅌㅍㅇ"
+      ],
+      "letters": [
+        "디",
+        "스",
+        "스토",
+        "스토피",
+        "스토피아",
+        "토",
+        "토피",
+        "토피아",
+        "피",
+        "피아",
+        "아",
+        "d",
+        "dy",
+        "dys",
+        "dyst",
+        "y",
+        "ys",
+        "yst",
+        "ysto",
+        "s",
+        "st",
+        "sto",
+        "stop",
+        "t",
+        "to",
+        "top",
+        "topi",
+        "o",
+        "op",
+        "opi",
+        "opia",
+        "p",
+        "pi",
+        "pia",
+        "i",
+        "ia",
+        "a",
+        "ㄷ",
+        "ㄷㅅ",
+        "ㄷㅅㅌ",
+        "ㄷㅅㅌㅍ",
+        "ㅅ",
+        "ㅅㅌ",
+        "ㅅㅌㅍ",
+        "ㅅㅌㅍㅇ",
+        "ㅌ",
+        "ㅌㅍ",
+        "ㅌㅍㅇ",
+        "ㅍ",
+        "ㅍㅇ",
+        "ㅇ"
+      ],
+      "store_name": "둠 이스케이프 2호점",
+      "store_nicknames": [
+        "doom",
+        "둠이스2호점",
+        "둠이스 2호점",
+        "둠이스케이프2호점"
+      ],
+      "location": "인천",
+      "area": "경기/인천",
+      "_geo": {
+        "lat": 37.4437998999999,
+        "lng": 126.7032253
+      },
+      "address": "인천 남동구 인하로507번길 18 망고빌딩 5층",
+      "description": "기분나쁜 꿈을 꾸고 잠에서 깨어난 신입가수 애슐리...\r\n평소와 다른 대기실... 이상한 느낌에 이 곳에 빠져나가려고 하지만,\r\n발을 내딛는 순간 상상도 하지 못?던 이야기가 펼쳐진다..!",
+      "isopen": true,
+      "player_count": 3,
+      "playtime": 70,
+      "poster_loc": "둠 이스케이프 2호점/디스토피아",
+      "ref_id": 2182,
+      "score_activity": 3.4,
+      "score_difficulty": 4.2,
+      "score_fear": 4.6,
+      "score_satisfy": 4.6,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 26000,
+      "thumb_loc": "둠 이스케이프 2호점/thumb_디스토피아",
+      "reserve_url": "https://doomescape.com/layout/res/home.php?rev_days=2024-01-17&s_zizum=2&go=rev.make",
+      "reserve_times": [
+        "22:20",
+        "23:50"
+      ],
+      "reserve_times_int": [
+        1340,
+        1430
+      ],
+      "activityReviewCount": 170,
+      "difficultyRateTotal": 1459.5,
+      "difficultyReviewCount": 401,
+      "fearRateTotal": 761,
+      "fearReviewCount": 186,
+      "interiorRateTotal": 617.5,
+      "interiorReviewCount": 159,
+      "isRecommendedTotal": 577,
+      "problemRateTotal": 575.5,
+      "problemReviewCount": 154,
+      "recommendReviewCount": 591,
+      "reviewCount": 760,
+      "satisfyRateTotal": 1703,
+      "satisfyReviewCount": 404,
+      "store_tel": "032-422-1737",
+      "store_homepage": "http://www.doomescape.com/",
+      "storyRateTotal": 630.5,
+      "storyReviewCount": 160,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8703947368421052,
+      "difficultyTotalRating": 3.6396508728179553,
+      "fearTotalRating": 4.091397849462366,
+      "activityTotalRating": 2.914705882352941,
+      "satisfyTotalRating": 4.215346534653466,
+      "problemTotalRating": 3.737012987012987,
+      "storyTotalRating": 3.940625,
+      "interiorTotalRating": 3.8836477987421385,
+      "actRateTotal": 703.5,
+      "actReviewCount": 164,
+      "activityRateTotal": 495.5,
+      "actTotalRating": 4.289634146341464,
+      "dup_code": 2182,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-28&s_zizum=2&go=rev.make",
+      "reserve_times_d1": [
+        "11:50",
+        "13:20",
+        "14:50",
+        "16:20",
+        "22:20",
+        "23:50"
+      ],
+      "reserve_times_int_d1": [
+        710,
+        800,
+        890,
+        980,
+        1340,
+        1430
+      ],
+      "reserve_url_d3": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-30&s_zizum=2&go=rev.make",
+      "reserve_times_d3": [
+        "23:50"
+      ],
+      "reserve_times_int_d3": [
+        1430
+      ],
+      "reserve_url_d2": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-29&s_zizum=2&go=rev.make",
+      "reserve_times_d2": [
+        "11:50",
+        "13:20",
+        "14:50",
+        "16:20",
+        "22:20",
+        "23:50"
+      ],
+      "reserve_times_int_d2": [
+        710,
+        800,
+        890,
+        980,
+        1340,
+        1430
+      ],
+      "reserve_url_d0": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-27&s_zizum=2&go=rev.make",
+      "reserve_times_d0": [
+        "23:50"
+      ],
+      "reserve_times_int_d0": [
+        1430
+      ],
+      "reserve_url_d4": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-31&s_zizum=2&go=rev.make",
+      "reserve_times_d4": [
+        "20:50",
+        "22:20",
+        "23:50"
+      ],
+      "reserve_times_int_d4": [
+        1250,
+        1340,
+        1430
+      ],
+      "reserve_url_d5": "https://doomescape.com/layout/res/home.php?rev_days=2024-04-01&s_zizum=2&go=rev.make",
+      "reserve_times_d5": [
+        "10:20",
+        "11:50",
+        "13:20",
+        "14:50",
+        "16:20",
+        "17:50",
+        "19:20",
+        "20:50",
+        "22:20",
+        "23:50"
+      ],
+      "reserve_times_int_d5": [
+        620,
+        710,
+        800,
+        890,
+        980,
+        1070,
+        1160,
+        1250,
+        1340,
+        1430
+      ],
+      "reserve_url_d6": "https://doomescape.com/layout/res/home.php?rev_days=2024-04-02&s_zizum=2&go=rev.make",
+      "reserve_times_d6": [
+        "11:50",
+        "13:20",
+        "14:50",
+        "16:20",
+        "17:50",
+        "19:20",
+        "20:50",
+        "22:20",
+        "23:50"
+      ],
+      "reserve_times_int_d6": [
+        710,
+        800,
+        890,
+        980,
+        1070,
+        1160,
+        1250,
+        1340,
+        1430
+      ]
+    },
+    {
+      "title": "오늘 나는",
+      "nicknames": [
+        "ㅇㄴㄴㄴ"
+      ],
+      "letters": [
+        "오",
+        "늘",
+        "나",
+        "나는",
+        "는",
+        "ㅇ",
+        "ㅇㄴ",
+        "ㅇㄴㄴ",
+        "ㅇㄴㄴㄴ",
+        "ㄴ",
+        "ㄴㄴ",
+        "ㄴㄴㄴ"
+      ],
+      "store_name": "비트포비아 홍대 던전",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5495415,
+        "lng": 126.9173161
+      },
+      "address": "서울 마포구 독막로3길 30",
+      "description": "잠에서 깨고 나면, 오늘도 나는 새로운 사람이 되어 하루를 살아간다. ",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 60,
+      "poster_loc": "비트포비아 홍대 던전/오늘 나는",
+      "ref_id": 1806,
+      "score_activity": 3.4,
+      "score_difficulty": 2.85,
+      "score_fear": 0.4,
+      "score_satisfy": 4.3,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "비트포비아 홍대 던전/thumb_오늘 나는",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 169,
+      "difficultyRateTotal": 1045.5,
+      "difficultyReviewCount": 392,
+      "fearRateTotal": 28.5,
+      "fearReviewCount": 121,
+      "interiorRateTotal": 602.5,
+      "interiorReviewCount": 151,
+      "isRecommendedTotal": 552,
+      "problemRateTotal": 516,
+      "problemReviewCount": 139,
+      "recommendReviewCount": 561,
+      "reviewCount": 789,
+      "satisfyRateTotal": 1567,
+      "satisfyReviewCount": 393,
+      "store_tel": "02-322-4997",
+      "store_homepage": "http://www.xphobia.net/",
+      "storyRateTotal": 652.5,
+      "storyReviewCount": 158,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.844106463878327,
+      "difficultyTotalRating": 2.667091836734694,
+      "fearTotalRating": 0.23553719008264465,
+      "activityTotalRating": 3.062130177514793,
+      "satisfyTotalRating": 3.987277353689568,
+      "problemTotalRating": 3.712230215827338,
+      "storyTotalRating": 4.129746835443038,
+      "interiorTotalRating": 3.990066225165563,
+      "actRateTotal": 621,
+      "actReviewCount": 153,
+      "activityRateTotal": 517.5,
+      "actTotalRating": 4.0588235294117645,
+      "dup_code": 1806,
+      "isunique": false,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "22:50"
+      ],
+      "d0_reserve_times_int": [
+        730,
+        810,
+        890,
+        1370
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "12:10",
+        "13:30",
+        "16:10",
+        "21:30",
+        "22:50"
+      ],
+      "d1_reserve_times_int": [
+        730,
+        810,
+        970,
+        1290,
+        1370
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "12:10",
+        "14:50",
+        "16:10",
+        "18:50",
+        "20:10",
+        "21:30",
+        "22:50"
+      ],
+      "d2_reserve_times_int": [
+        730,
+        890,
+        970,
+        1130,
+        1210,
+        1290,
+        1370
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "18:50",
+        "20:10",
+        "21:30",
+        "22:50"
+      ],
+      "d3_reserve_times_int": [
+        730,
+        810,
+        890,
+        970,
+        1050,
+        1130,
+        1210,
+        1290,
+        1370
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [
+        "22:30"
+      ],
+      "d4_reserve_times_int": [
+        1350
+      ],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "10:30",
+        "11:50",
+        "21:10",
+        "22:30"
+      ],
+      "d5_reserve_times_int": [
+        630,
+        710,
+        1270,
+        1350
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=3&go=rev.main",
+      "reserve_times_d1": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "20:10",
+        "21:30",
+        "22:50"
+      ],
+      "reserve_times_int_d1": [
+        730,
+        810,
+        890,
+        970,
+        1050,
+        1210,
+        1290,
+        1370
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=3&go=rev.main",
+      "reserve_times_d3": [
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d3": [
+        1270,
+        1350
+      ],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=3&go=rev.main",
+      "reserve_times_d2": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "20:10",
+        "22:50"
+      ],
+      "reserve_times_int_d2": [
+        730,
+        810,
+        890,
+        970,
+        1210,
+        1370
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=3&go=rev.main",
+      "reserve_times_d0": [
+        "22:50"
+      ],
+      "reserve_times_int_d0": [
+        1370
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=3&go=rev.main",
+      "reserve_times_d4": [
+        "11:50",
+        "13:10",
+        "17:10",
+        "18:30",
+        "19:50",
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d4": [
+        710,
+        790,
+        1030,
+        1110,
+        1190,
+        1270,
+        1350
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=3&go=rev.main",
+      "reserve_times_d5": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "18:50",
+        "20:10",
+        "21:30",
+        "22:50"
+      ],
+      "reserve_times_int_d5": [
+        730,
+        810,
+        890,
+        970,
+        1050,
+        1130,
+        1210,
+        1290,
+        1370
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=3&go=rev.main",
+      "reserve_times_d6": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "18:50",
+        "20:10",
+        "21:30",
+        "22:50"
+      ],
+      "reserve_times_int_d6": [
+        730,
+        810,
+        890,
+        970,
+        1050,
+        1130,
+        1210,
+        1290,
+        1370
+      ]
+    },
+    {
+      "title": "RETURN",
+      "nicknames": [
+        "리턴",
+        "ㄹㅌ"
+      ],
+      "letters": [
+        "R",
+        "E",
+        "ET",
+        "ETU",
+        "ETUR",
+        "T",
+        "TU",
+        "TUR",
+        "TURN",
+        "U",
+        "UR",
+        "URN",
+        "RN",
+        "N",
+        "리",
+        "리턴",
+        "턴",
+        "ㄹ",
+        "ㄹㅌ",
+        "ㅌ"
+      ],
+      "store_name": "포인트나인 건대점",
+      "store_nicknames": [
+        "point nine",
+        "포나",
+        "건포나",
+        "포나건대점"
+      ],
+      "location": "건대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5424706,
+        "lng": 127.070717
+      },
+      "address": "서울 광진구 아차산로33길 49 3층",
+      "description": "가까운 미래, 화려한 밤, 그리고 빛의 도시.\r\n이곳에서 마스크 상점을 운영하는 Zho 부부.\r\n\r\n이들은 평소 훌륭한 인품과 좋은 금실로 모든 이웃에게 존경받지만,\r\n수 년째 생기지 않는 아이로 인해 남모를 걱정을 안고 살아왔다.\r\n\r\n그러던 어느날, 구석진 골목길에 버려진 한 여자아이를 발견한 부부는\r\n아이의 부모를 찾아주려 꽤 오랜 시간을 애썼으나 뜻대로 되지 않았다.\r\n그들은 결국 이것을 신의 가호이자 부부의 운명으로 받아들이게 되고,\r\n누구보다 기쁜 마음으로 아이를 입양하며 부모로서의 책임을 다한다.\r\n\r\n불쌍히 버려졌던 아이는 Kolk라는 새 이름을 가지고 다시 태어나\r\n부부의 딸로서 여느 가족과 다를 바 없이 평범하게 자랄 수 있었다.\r\n\r\n그러나 최근 들어\r\n온 세상 곳곳에서 사람들이 사라지기 시작했다.\r\n알 수 없는 사건들이 오랜 시간 반복되자,\r\n심상치 않음을 느낀 부부는 Kolk에게 편지 한 통을 남긴다.",
+      "isopen": true,
+      "player_count": 0,
+      "playtime": 65,
+      "poster_loc": "포인트나인 건대점/RETURN",
+      "ref_id": 2645,
+      "score_activity": 0,
+      "score_difficulty": 0,
+      "score_fear": 0,
+      "score_satisfy": 0,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "포인트나인 건대점/thumb_RETURN",
+      "reserve_url": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-01-17&s_zizum=5&go=rev.make",
+      "reserve_times": [
+        "23:10"
+      ],
+      "reserve_times_int": [
+        1390
+      ],
+      "activityReviewCount": 162,
+      "difficultyRateTotal": 1182.5,
+      "difficultyReviewCount": 402,
+      "fearRateTotal": 49,
+      "fearReviewCount": 135,
+      "interiorRateTotal": 611,
+      "interiorReviewCount": 149,
+      "isRecommendedTotal": 542,
+      "problemRateTotal": 512.5,
+      "problemReviewCount": 144,
+      "recommendReviewCount": 552,
+      "reviewCount": 763,
+      "satisfyRateTotal": 1601,
+      "satisfyReviewCount": 395,
+      "store_tel": "070-7537-0869",
+      "store_homepage": "http://point-nine.com",
+      "storyRateTotal": 572,
+      "storyReviewCount": 153,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8486238532110092,
+      "difficultyTotalRating": 2.941542288557214,
+      "fearTotalRating": 0.362962962962963,
+      "activityTotalRating": 2.8395061728395063,
+      "satisfyTotalRating": 4.053164556962026,
+      "problemTotalRating": 3.5590277777777777,
+      "storyTotalRating": 3.738562091503268,
+      "interiorTotalRating": 4.100671140939597,
+      "actRateTotal": 549.5,
+      "actReviewCount": 145,
+      "activityRateTotal": 460,
+      "actTotalRating": 3.7896551724137937,
+      "dup_code": 2645,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-28&s_zizum=5&go=rev.make",
+      "reserve_times_d1": [
+        "13:20",
+        "14:45",
+        "15:55",
+        "17:05",
+        "18:15",
+        "19:25",
+        "20:35",
+        "21:45",
+        "22:55"
+      ],
+      "reserve_times_int_d1": [
+        800,
+        885,
+        955,
+        1025,
+        1095,
+        1165,
+        1235,
+        1305,
+        1375
+      ],
+      "reserve_url_d3": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-30&s_zizum=5&go=rev.make",
+      "reserve_times_d3": [
+        "20:20",
+        "21:30",
+        "22:40",
+        "23:50"
+      ],
+      "reserve_times_int_d3": [
+        1220,
+        1290,
+        1360,
+        1430
+      ],
+      "reserve_url_d2": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-29&s_zizum=5&go=rev.make",
+      "reserve_times_d2": [
+        "12:10",
+        "14:45",
+        "18:15",
+        "20:35",
+        "21:45",
+        "22:55"
+      ],
+      "reserve_times_int_d2": [
+        730,
+        885,
+        1095,
+        1235,
+        1305,
+        1375
+      ],
+      "reserve_url_d0": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-27&s_zizum=5&go=rev.make",
+      "reserve_times_d0": [
+        "22:55"
+      ],
+      "reserve_times_int_d0": [
+        1375
+      ],
+      "reserve_url_d4": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-31&s_zizum=5&go=rev.make",
+      "reserve_times_d4": [
+        "09:50",
+        "11:00",
+        "18:00",
+        "19:10",
+        "20:20",
+        "21:30",
+        "22:40",
+        "23:50"
+      ],
+      "reserve_times_int_d4": [
+        590,
+        660,
+        1080,
+        1150,
+        1220,
+        1290,
+        1360,
+        1430
+      ],
+      "reserve_url_d5": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-04-01&s_zizum=5&go=rev.make",
+      "reserve_times_d5": [
+        "12:10",
+        "13:20",
+        "14:45",
+        "15:55",
+        "17:05",
+        "18:15",
+        "19:25",
+        "20:35",
+        "21:45",
+        "22:55"
+      ],
+      "reserve_times_int_d5": [
+        730,
+        800,
+        885,
+        955,
+        1025,
+        1095,
+        1165,
+        1235,
+        1305,
+        1375
+      ],
+      "reserve_url_d6": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-04-02&s_zizum=5&go=rev.make",
+      "reserve_times_d6": [
+        "12:10",
+        "13:20",
+        "14:45",
+        "15:55",
+        "17:05",
+        "18:15",
+        "19:25",
+        "20:35",
+        "21:45",
+        "22:55"
+      ],
+      "reserve_times_int_d6": [
+        730,
+        800,
+        885,
+        955,
+        1025,
+        1095,
+        1165,
+        1235,
+        1305,
+        1375
+      ]
+    },
+    {
+      "title": "Listen",
+      "nicknames": [
+        "리슨",
+        "ㄹㅅ"
+      ],
+      "letters": [
+        "L",
+        "i",
+        "is",
+        "ist",
+        "iste",
+        "s",
+        "st",
+        "ste",
+        "sten",
+        "t",
+        "te",
+        "ten",
+        "e",
+        "en",
+        "n",
+        "리",
+        "리슨",
+        "슨",
+        "ㄹ",
+        "ㄹㅅ",
+        "ㅅ"
+      ],
+      "store_name": "포인트나인 홍대점",
+      "store_nicknames": [
+        ""
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5494736,
+        "lng": 126.919633
+      },
+      "address": "서울특별시 마포구 독막로7길 40 지하1층",
+      "description": "정신을 차려보니 감옥 같은 창고였다.",
+      "isopen": true,
+      "playtime": 75,
+      "poster_loc": "포인트나인 홍대점/Listen",
+      "ref_id": 3574,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 28000,
+      "thumb_loc": "포인트나인 홍대점/thumb_Listen",
+      "activityReviewCount": 176,
+      "difficultyRateTotal": 1110,
+      "difficultyReviewCount": 327,
+      "fearRateTotal": 309,
+      "fearReviewCount": 177,
+      "interiorRateTotal": 755,
+      "interiorReviewCount": 172,
+      "isRecommendedTotal": 540,
+      "problemRateTotal": 639,
+      "problemReviewCount": 167,
+      "recommendReviewCount": 550,
+      "reviewCount": 708,
+      "satisfyRateTotal": 1418.5,
+      "satisfyReviewCount": 339,
+      "store_tel": "0507-1365-0538",
+      "store_homepage": "https://point-nine.com/",
+      "storyRateTotal": 717.5,
+      "storyReviewCount": 175,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8742937853107344,
+      "difficultyTotalRating": 3.3944954128440368,
+      "fearTotalRating": 1.7457627118644068,
+      "activityTotalRating": 2.1107954545454546,
+      "satisfyTotalRating": 4.184365781710914,
+      "problemTotalRating": 3.8263473053892216,
+      "storyTotalRating": 4.1,
+      "interiorTotalRating": 4.3895348837209305,
+      "actRateTotal": 758,
+      "actReviewCount": 177,
+      "activityRateTotal": 371.5,
+      "actTotalRating": 4.2824858757062145,
+      "dup_code": 3574,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-28&s_zizum=6&go=rev.make",
+      "reserve_times_d1": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30",
+        "16:00",
+        "17:30",
+        "19:00",
+        "22:00",
+        "23:30"
+      ],
+      "reserve_times_int_d1": [
+        600,
+        690,
+        780,
+        870,
+        960,
+        1050,
+        1140,
+        1320,
+        1410
+      ],
+      "reserve_url_d3": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-30&s_zizum=6&go=rev.make",
+      "reserve_times_d3": [
+        "22:00",
+        "23:30"
+      ],
+      "reserve_times_int_d3": [
+        1320,
+        1410
+      ],
+      "reserve_url_d2": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-29&s_zizum=6&go=rev.make",
+      "reserve_times_d2": [
+        "10:00",
+        "13:00",
+        "14:30",
+        "17:30",
+        "20:30",
+        "23:30"
+      ],
+      "reserve_times_int_d2": [
+        600,
+        780,
+        870,
+        1050,
+        1230,
+        1410
+      ],
+      "reserve_url_d0": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-27&s_zizum=6&go=rev.make",
+      "reserve_times_d0": [
+        "23:30"
+      ],
+      "reserve_times_int_d0": [
+        1410
+      ],
+      "reserve_url_d4": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-03-31&s_zizum=6&go=rev.make",
+      "reserve_times_d4": [
+        "10:00",
+        "11:30",
+        "20:30",
+        "22:00",
+        "23:30"
+      ],
+      "reserve_times_int_d4": [
+        600,
+        690,
+        1230,
+        1320,
+        1410
+      ],
+      "reserve_url_d5": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-04-01&s_zizum=6&go=rev.make",
+      "reserve_times_d5": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30",
+        "16:00",
+        "22:00",
+        "23:30"
+      ],
+      "reserve_times_int_d5": [
+        600,
+        690,
+        780,
+        870,
+        960,
+        1320,
+        1410
+      ],
+      "reserve_url_d6": "https://www.point-nine.com/layout/res/home.php?rev_days=2024-04-02&s_zizum=6&go=rev.make",
+      "reserve_times_d6": [
+        "10:00",
+        "11:30",
+        "13:00",
+        "14:30",
+        "16:00",
+        "17:30",
+        "19:00",
+        "20:30",
+        "22:00",
+        "23:30"
+      ],
+      "reserve_times_int_d6": [
+        600,
+        690,
+        780,
+        870,
+        960,
+        1050,
+        1140,
+        1230,
+        1320,
+        1410
+      ]
+    },
+    {
+      "title": "디어마이프렌드",
+      "nicknames": [
+        "디마프",
+        "ㄷㅇㅁㅇㅍㄹㄷ"
+      ],
+      "letters": [
+        "디",
+        "어",
+        "어마",
+        "어마이",
+        "어마이프",
+        "마",
+        "마이",
+        "마이프",
+        "마이프렌",
+        "이",
+        "이프",
+        "이프렌",
+        "이프렌드",
+        "프",
+        "프렌",
+        "프렌드",
+        "렌",
+        "렌드",
+        "드",
+        "디마",
+        "디마프",
+        "마프",
+        "ㄷ",
+        "ㄷㅇ",
+        "ㄷㅇㅁ",
+        "ㄷㅇㅁㅇ",
+        "ㅇ",
+        "ㅇㅁ",
+        "ㅇㅁㅇ",
+        "ㅇㅁㅇㅍ",
+        "ㅁ",
+        "ㅁㅇ",
+        "ㅁㅇㅍ",
+        "ㅁㅇㅍㄹ",
+        "ㅇㅍ",
+        "ㅇㅍㄹ",
+        "ㅇㅍㄹㄷ",
+        "ㅍ",
+        "ㅍㄹ",
+        "ㅍㄹㄷ",
+        "ㄹ",
+        "ㄹㄷ"
+      ],
+      "store_name": "위욜",
+      "store_nicknames": [
+        "weyol"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5538486,
+        "lng": 126.927584
+      },
+      "address": "서울시 마포구 와우산로27길 7, 지하1층(서교동, 베뉴에스)",
+      "description": "어린시절 친구로부터 한통의 편지를 받았다.",
+      "isopen": true,
+      "playtime": 70,
+      "poster_loc": "위욜/디어마이프렌드",
+      "ref_id": 3618,
+      "special_tags": [
+        "신규"
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 27000,
+      "thumb_loc": "위욜/thumb_디어마이프렌드",
+      "activityReviewCount": 181,
+      "difficultyRateTotal": 799,
+      "difficultyReviewCount": 284,
+      "fearRateTotal": 24,
+      "fearReviewCount": 141,
+      "interiorRateTotal": 780.5,
+      "interiorReviewCount": 173,
+      "isRecommendedTotal": 500,
+      "problemRateTotal": 641,
+      "problemReviewCount": 161,
+      "recommendReviewCount": 503,
+      "reviewCount": 610,
+      "satisfyRateTotal": 1268,
+      "satisfyReviewCount": 294,
+      "store_tel": "02-332-3305",
+      "store_homepage": "https://weyol.com/layout/res/home.php?go=rev.make",
+      "storyRateTotal": 640,
+      "storyReviewCount": 168,
+      "store_special_tags": "신규",
+      "recommendTotalRating": 0.907377049180328,
+      "difficultyTotalRating": 2.813380281690141,
+      "fearTotalRating": 0.1702127659574468,
+      "activityTotalRating": 3.052486187845304,
+      "satisfyTotalRating": 4.312925170068027,
+      "problemTotalRating": 3.981366459627329,
+      "storyTotalRating": 3.8095238095238098,
+      "interiorTotalRating": 4.511560693641618,
+      "actRateTotal": 706,
+      "actReviewCount": 168,
+      "activityRateTotal": 552.5,
+      "actTotalRating": 4.2023809523809526,
+      "dup_code": 3618,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://weyol.com/layout/res/home.php?rev_days=2024-03-28&s_theme_num=&go=rev.make",
+      "reserve_times_d1": [
+        "14:00",
+        "15:25",
+        "21:05",
+        "22:30"
+      ],
+      "reserve_times_int_d1": [
+        840,
+        925,
+        1265,
+        1350
+      ],
+      "reserve_url_d3": "https://weyol.com/layout/res/home.php?rev_days=2024-03-30&s_theme_num=&go=rev.make",
+      "reserve_times_d3": [
+        "10:20"
+      ],
+      "reserve_times_int_d3": [
+        620
+      ],
+      "reserve_url_d2": "https://weyol.com/layout/res/home.php?rev_days=2024-03-29&s_theme_num=&go=rev.make",
+      "reserve_times_d2": [
+        "14:00",
+        "15:25",
+        "22:30"
+      ],
+      "reserve_times_int_d2": [
+        840,
+        925,
+        1350
+      ],
+      "reserve_url_d0": "https://weyol.com/layout/res/home.php?rev_days=2024-03-27&s_theme_num=&go=rev.make",
+      "reserve_times_d0": [
+        "22:30"
+      ],
+      "reserve_times_int_d0": [
+        1350
+      ],
+      "reserve_url_d4": "https://weyol.com/layout/res/home.php?rev_days=2024-03-31&s_theme_num=&go=rev.make",
+      "reserve_times_d4": [
+        "19:20",
+        "20:50",
+        "22:20"
+      ],
+      "reserve_times_int_d4": [
+        1160,
+        1250,
+        1340
+      ],
+      "reserve_url_d5": "https://weyol.com/layout/res/home.php?rev_days=2024-04-01&s_theme_num=&go=rev.make",
+      "reserve_times_d5": [
+        "14:00",
+        "15:25",
+        "16:50",
+        "18:15",
+        "21:05",
+        "22:30"
+      ],
+      "reserve_times_int_d5": [
+        840,
+        925,
+        1010,
+        1095,
+        1265,
+        1350
+      ],
+      "reserve_url_d6": "https://weyol.com/layout/res/home.php?rev_days=2024-04-02&s_theme_num=&go=rev.make",
+      "reserve_times_d6": [
+        "14:00",
+        "15:25",
+        "16:50",
+        "19:40",
+        "21:05",
+        "22:30"
+      ],
+      "reserve_times_int_d6": [
+        840,
+        925,
+        1010,
+        1180,
+        1265,
+        1350
+      ]
+    },
+    {
+      "title": "영포에버",
+      "nicknames": [
+        "ㅇㅍㅇㅂ"
+      ],
+      "letters": [
+        "영",
+        "포",
+        "포에",
+        "포에버",
+        "에",
+        "에버",
+        "버",
+        "ㅇ",
+        "ㅇㅍ",
+        "ㅇㅍㅇ",
+        "ㅇㅍㅇㅂ",
+        "ㅍ",
+        "ㅍㅇ",
+        "ㅍㅇㅂ",
+        "ㅇㅂ",
+        "ㅂ"
+      ],
+      "store_name": "소우주",
+      "store_nicknames": [
+        ""
+      ],
+      "location": "수원",
+      "area": "경기/인천",
+      "_geo": {
+        "lat": 37.2649153,
+        "lng": 127.0314112
+      },
+      "address": "경기 수원시 팔달구 권광로187번길 26 3층",
+      "description": "꼰머대학교로 화려하게 돌아온 복학생 나꼰대!\r\n\r\n즐겁기만 할 줄 알았던 캠퍼스라이프가 왜인지 순탄하지만은 않은데..\r\n\r\n그는 이 위기를 극복하고 인싸의 꿈을 이룰 수 있을까?",
+      "isopen": true,
+      "player_count": 3,
+      "playtime": 70,
+      "poster_loc": "소우주/영포에버",
+      "ref_id": 2523,
+      "score_activity": 1,
+      "score_difficulty": 4,
+      "score_fear": 0,
+      "score_satisfy": 4,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 24000,
+      "thumb_loc": "소우주/thumb_영포에버",
+      "activityReviewCount": 125,
+      "difficultyRateTotal": 1221,
+      "difficultyReviewCount": 341,
+      "fearRateTotal": 7,
+      "fearReviewCount": 101,
+      "interiorRateTotal": 548,
+      "interiorReviewCount": 124,
+      "isRecommendedTotal": 496,
+      "problemRateTotal": 472,
+      "problemReviewCount": 121,
+      "recommendReviewCount": 506,
+      "reviewCount": 637,
+      "satisfyRateTotal": 1492.5,
+      "satisfyReviewCount": 346,
+      "store_tel": "050-71461-2251",
+      "store_homepage": "http://sowoojoo-escape.com/",
+      "storyRateTotal": 488,
+      "storyReviewCount": 124,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8814756671899528,
+      "difficultyTotalRating": 3.5806451612903225,
+      "fearTotalRating": 0.06930693069306931,
+      "activityTotalRating": 1.688,
+      "satisfyTotalRating": 4.313583815028902,
+      "problemTotalRating": 3.900826446280992,
+      "storyTotalRating": 3.935483870967742,
+      "interiorTotalRating": 4.419354838709677,
+      "actRateTotal": 499.5,
+      "actReviewCount": 121,
+      "activityRateTotal": 211,
+      "actTotalRating": 4.128099173553719,
+      "dup_code": 2523,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-03-28&s_theme_num=&go=rev.make",
+      "reserve_times_d1": [
+        "13:05",
+        "14:40",
+        "19:25",
+        "20:55",
+        "22:25"
+      ],
+      "reserve_times_int_d1": [
+        785,
+        880,
+        1165,
+        1255,
+        1345
+      ],
+      "reserve_url_d3": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-03-30&s_theme_num=&go=rev.make",
+      "reserve_times_d3": [
+        "21:40",
+        "23:10"
+      ],
+      "reserve_times_int_d3": [
+        1300,
+        1390
+      ],
+      "reserve_url_d2": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-03-29&s_theme_num=&go=rev.make",
+      "reserve_times_d2": [
+        "13:05",
+        "14:40"
+      ],
+      "reserve_times_int_d2": [
+        785,
+        880
+      ],
+      "reserve_url_d0": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-03-27&s_theme_num=&go=rev.make",
+      "reserve_times_d0": [
+        "22:25"
+      ],
+      "reserve_times_int_d0": [
+        1345
+      ],
+      "reserve_url_d4": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-03-31&s_theme_num=&go=rev.make",
+      "reserve_times_d4": [
+        "20:10",
+        "21:40",
+        "23:10"
+      ],
+      "reserve_times_int_d4": [
+        1210,
+        1300,
+        1390
+      ],
+      "reserve_url_d5": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-04-01&s_theme_num=&go=rev.make",
+      "reserve_times_d5": [
+        "13:05",
+        "14:40",
+        "16:15",
+        "17:50",
+        "19:25",
+        "20:55",
+        "22:25"
+      ],
+      "reserve_times_int_d5": [
+        785,
+        880,
+        975,
+        1070,
+        1165,
+        1255,
+        1345
+      ],
+      "reserve_url_d6": "http://sowoojoo-escape.com/layout/res/home.php?rev_days=2024-04-02&s_theme_num=&go=rev.make",
+      "reserve_times_d6": [
+        "13:05",
+        "14:40",
+        "16:15",
+        "17:50",
+        "19:25",
+        "20:55",
+        "22:25"
+      ],
+      "reserve_times_int_d6": [
+        785,
+        880,
+        975,
+        1070,
+        1165,
+        1255,
+        1345
+      ]
+    },
+    {
+      "title": "미스터리",
+      "nicknames": [
+        "mister lee",
+        "ㅁㅅㅌㄹ"
+      ],
+      "letters": [
+        "미",
+        "스",
+        "스터",
+        "스터리",
+        "터",
+        "터리",
+        "리",
+        "m",
+        "mi",
+        "mis",
+        "mist",
+        "i",
+        "is",
+        "ist",
+        "iste",
+        "s",
+        "st",
+        "ste",
+        "ster",
+        "t",
+        "te",
+        "ter",
+        "e",
+        "er",
+        "r",
+        "l",
+        "le",
+        "lee",
+        "ee",
+        "ㅁ",
+        "ㅁㅅ",
+        "ㅁㅅㅌ",
+        "ㅁㅅㅌㄹ",
+        "ㅅ",
+        "ㅅㅌ",
+        "ㅅㅌㄹ",
+        "ㅌ",
+        "ㅌㄹ",
+        "ㄹ"
+      ],
+      "store_name": "지구별 방탈출 홍대어드벤처점",
+      "store_nicknames": [
+        "홍대",
+        "지구별",
+        "어드벤처"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5522413,
+        "lng": 126.922097
+      },
+      "address": "서울특별시 마포구 와우산로21길 31 3층",
+      "description": "오늘 하루, 당신께 잊지 못할 추억을 선물해 드리겠습니다.\n- 미스터리 트래블",
+      "isopen": true,
+      "player_count": 0,
+      "playtime": 85,
+      "poster_loc": "지구별 방탈출 홍대어드벤처점/미스터리",
+      "ref_id": 2752,
+      "score_activity": 0,
+      "score_difficulty": 0,
+      "score_fear": 0,
+      "score_satisfy": 0,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        "미스터리"
+      ],
+      "price": 28000,
+      "thumb_loc": "지구별 방탈출 홍대어드벤처점/thumb_미스터리",
+      "reserve_url": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-01-17",
+      "reserve_times": [
+        "22:25"
+      ],
+      "reserve_times_int": [
+        1345
+      ],
+      "activityReviewCount": 140,
+      "difficultyRateTotal": 1138.5,
+      "difficultyReviewCount": 322,
+      "fearRateTotal": 211.5,
+      "fearReviewCount": 140,
+      "interiorRateTotal": 534.5,
+      "interiorReviewCount": 127,
+      "isRecommendedTotal": 486,
+      "problemRateTotal": 480.5,
+      "problemReviewCount": 125,
+      "recommendReviewCount": 495,
+      "reviewCount": 649,
+      "satisfyRateTotal": 1357.5,
+      "satisfyReviewCount": 323,
+      "store_tel": "0507-1333-4441",
+      "store_homepage": "https://xn--2e0b040a4xj.com/",
+      "storyRateTotal": 523.5,
+      "storyReviewCount": 129,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8674884437596302,
+      "difficultyTotalRating": 3.5357142857142856,
+      "fearTotalRating": 1.5107142857142857,
+      "activityTotalRating": 2.692857142857143,
+      "satisfyTotalRating": 4.2027863777089784,
+      "problemTotalRating": 3.844,
+      "storyTotalRating": 4.058139534883721,
+      "interiorTotalRating": 4.208661417322834,
+      "actRateTotal": 505.5,
+      "actReviewCount": 126,
+      "activityRateTotal": 377,
+      "actTotalRating": 4.011904761904762,
+      "dup_code": 2752,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-03-28",
+      "reserve_times_d1": [
+        "15:25",
+        "17:10",
+        "18:55",
+        "20:40",
+        "22:25"
+      ],
+      "reserve_times_int_d1": [
+        925,
+        1030,
+        1135,
+        1240,
+        1345
+      ],
+      "reserve_url_d3": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-03-30",
+      "reserve_times_d3": [
+        "10:10",
+        "22:25"
+      ],
+      "reserve_times_int_d3": [
+        610,
+        1345
+      ],
+      "reserve_url_d2": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-03-29",
+      "reserve_times_d2": [
+        "10:10",
+        "11:55",
+        "13:40",
+        "17:10",
+        "22:25"
+      ],
+      "reserve_times_int_d2": [
+        610,
+        715,
+        820,
+        1030,
+        1345
+      ],
+      "reserve_url_d0": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-03-27",
+      "reserve_times_d0": [
+        "22:25"
+      ],
+      "reserve_times_int_d0": [
+        1345
+      ],
+      "reserve_url_d4": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-03-31",
+      "reserve_times_d4": [
+        "10:10",
+        "22:25"
+      ],
+      "reserve_times_int_d4": [
+        610,
+        1345
+      ],
+      "reserve_url_d5": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-04-01",
+      "reserve_times_d5": [
+        "10:10",
+        "11:55",
+        "13:40",
+        "15:25",
+        "17:10",
+        "18:55",
+        "20:40",
+        "22:25"
+      ],
+      "reserve_times_int_d5": [
+        610,
+        715,
+        820,
+        925,
+        1030,
+        1135,
+        1240,
+        1345
+      ],
+      "reserve_url_d6": "https://www.xn--2e0b040a4xj.com/reservation?branch=2&theme=&date=2024-04-02",
+      "reserve_times_d6": [
+        "10:10",
+        "11:55",
+        "13:40",
+        "17:10",
+        "18:55",
+        "20:40",
+        "22:25"
+      ],
+      "reserve_times_int_d6": [
+        610,
+        715,
+        820,
+        1030,
+        1135,
+        1240,
+        1345
+      ]
+    },
+    {
+      "title": "꿈의 공장",
+      "nicknames": [
+        "ㄲㅇㄱㅈ"
+      ],
+      "letters": [
+        "꿈",
+        "의",
+        "공",
+        "공장",
+        "장",
+        "ㄲ",
+        "ㄲㅇ",
+        "ㄲㅇㄱ",
+        "ㄲㅇㄱㅈ",
+        "ㅇ",
+        "ㅇㄱ",
+        "ㅇㄱㅈ",
+        "ㄱ",
+        "ㄱㅈ",
+        "ㅈ"
+      ],
+      "store_name": "비트포비아 홍대 던전",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5495415,
+        "lng": 126.9173161
+      },
+      "address": "서울 마포구 독막로3길 30",
+      "description": "\"OK 컷! 모두 수고하셨습니다!!!\"\r\n\r\n이게 무슨 소리냐고요? 꿈 제작이 완료됐음을 알리는 소리에요!\r\n\r\n \r\n\r\n여기는 꿈의 공장, 당신의 오늘 하루를 마무리 짓고\r\n\r\n내일 하루를 열어 주는 즐거운 꿈을 만드는 곳이죠.\r\n\r\n \r\n\r\n당신도 꿈이 필요하신가요?\r\n\r\n그렇다면 당신의 이야기를 꿈의 공장으로 보내주세요!",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 60,
+      "poster_loc": "비트포비아 홍대 던전/꿈의 공장",
+      "ref_id": 1807,
+      "score_activity": 3.7619,
+      "score_difficulty": 2.42857,
+      "score_fear": 0.428571,
+      "score_satisfy": 4.2381,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "비트포비아 홍대 던전/thumb_꿈의 공장",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 180,
+      "difficultyRateTotal": 953,
+      "difficultyReviewCount": 402,
+      "fearRateTotal": 20,
+      "fearReviewCount": 133,
+      "interiorRateTotal": 626,
+      "interiorReviewCount": 165,
+      "isRecommendedTotal": 476,
+      "problemRateTotal": 546.5,
+      "problemReviewCount": 154,
+      "recommendReviewCount": 488,
+      "reviewCount": 773,
+      "satisfyRateTotal": 1530.5,
+      "satisfyReviewCount": 401,
+      "store_tel": "02-322-4997",
+      "store_homepage": "http://www.xphobia.net/",
+      "storyRateTotal": 580,
+      "storyReviewCount": 161,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8001293661060802,
+      "difficultyTotalRating": 2.370646766169154,
+      "fearTotalRating": 0.15037593984962405,
+      "activityTotalRating": 3.0055555555555555,
+      "satisfyTotalRating": 3.816708229426434,
+      "problemTotalRating": 3.5487012987012987,
+      "storyTotalRating": 3.6024844720496896,
+      "interiorTotalRating": 3.793939393939394,
+      "actRateTotal": 611,
+      "actReviewCount": 159,
+      "activityRateTotal": 541,
+      "actTotalRating": 3.842767295597484,
+      "dup_code": 1807,
+      "isunique": false,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "21:10",
+        "22:30"
+      ],
+      "d0_reserve_times_int": [
+        1270,
+        1350
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "14:30",
+        "15:50",
+        "21:10",
+        "22:30"
+      ],
+      "d1_reserve_times_int": [
+        870,
+        950,
+        1270,
+        1350
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "11:50",
+        "13:10",
+        "15:50",
+        "17:10",
+        "21:10",
+        "22:30"
+      ],
+      "d2_reserve_times_int": [
+        710,
+        790,
+        950,
+        1030,
+        1270,
+        1350
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "11:50",
+        "13:10",
+        "14:30",
+        "15:50",
+        "18:30",
+        "22:30"
+      ],
+      "d3_reserve_times_int": [
+        710,
+        790,
+        870,
+        950,
+        1110,
+        1350
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [
+        "10:10",
+        "16:50"
+      ],
+      "d4_reserve_times_int": [
+        610,
+        1010
+      ],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "11:30",
+        "19:30",
+        "20:50",
+        "22:10"
+      ],
+      "d5_reserve_times_int": [
+        690,
+        1170,
+        1250,
+        1330
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=3&go=rev.main",
+      "reserve_times_d1": [
+        "11:50",
+        "14:30",
+        "15:50",
+        "17:10",
+        "18:30",
+        "19:50",
+        "22:30"
+      ],
+      "reserve_times_int_d1": [
+        710,
+        870,
+        950,
+        1030,
+        1110,
+        1190,
+        1350
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=3&go=rev.main",
+      "reserve_times_d3": [
+        "22:10"
+      ],
+      "reserve_times_int_d3": [
+        1330
+      ],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=3&go=rev.main",
+      "reserve_times_d2": [
+        "11:50",
+        "14:30",
+        "17:10",
+        "18:30",
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d2": [
+        710,
+        870,
+        1030,
+        1110,
+        1270,
+        1350
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=3&go=rev.main",
+      "reserve_times_d0": [
+        "22:30"
+      ],
+      "reserve_times_int_d0": [
+        1350
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=3&go=rev.main",
+      "reserve_times_d4": [
+        "10:10",
+        "18:10",
+        "22:10"
+      ],
+      "reserve_times_int_d4": [
+        610,
+        1090,
+        1330
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=3&go=rev.main",
+      "reserve_times_d5": [
+        "13:10",
+        "14:30",
+        "17:10",
+        "18:30",
+        "19:50",
+        "21:10",
+        "22:30"
+      ],
+      "reserve_times_int_d5": [
+        790,
+        870,
+        1030,
+        1110,
+        1190,
+        1270,
+        1350
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=3&go=rev.main",
+      "reserve_times_d6": [
+        "11:50",
+        "13:10",
+        "14:30",
+        "15:50",
+        "17:10",
+        "18:30",
+        "19:50",
+        "22:30"
+      ],
+      "reserve_times_int_d6": [
+        710,
+        790,
+        870,
+        950,
+        1030,
+        1110,
+        1190,
+        1350
+      ]
+    },
+    {
+      "title": "기담정",
+      "nicknames": [
+        "ㄱㄷㅈ"
+      ],
+      "letters": [
+        "기",
+        "담",
+        "담정",
+        "정",
+        "ㄱ",
+        "ㄱㄷ",
+        "ㄱㄷㅈ",
+        "ㄷ",
+        "ㄷㅈ",
+        "ㅈ"
+      ],
+      "store_name": "둠 이스케이프 1호점",
+      "store_nicknames": [
+        "doom",
+        "둠이스1호점",
+        "둠이스 1호점",
+        "둠이스케이프1호점"
+      ],
+      "location": "인천",
+      "area": "경기/인천",
+      "_geo": {
+        "lat": 37.4462213,
+        "lng": 126.7017766
+      },
+      "address": "인천 남동구 성말로13번길 15",
+      "description": "당신은 어머니 기일을 맞아 고향집으로 향했다. \r\n하나뿐인 여동생을 오랜만에 만나 반가운 마음에 술을 마시며 이런저런 이야기를 나누는데, \r\n한참술을 마시다 잠시 한눈 판 사이 술에 취한 동생이 말도 없이 집을 나간것을 발견했다. \r\n밖으로 나간 당신은 멀리 비틀거리며 도로 한가운데까지 걸어간 동생의 모습과 차가그녀를 향해\r\n달려오는 모습을 보고 위급한 상황에 앞뒤 가릴 새 없이 무작정 도로로 뛰어들었다. \r\n순식간에 자동차의 불빛과 경적소리가 당신을 덮치고... \r\n\r\n새까만 정적이 흐르다 곧 눈을 떠보니 당신은 따듯한 위화감이 도는 낮선 숲에서 깨어나게 된다. \r\n하지만 당신이 왜 여기 있는지, 그리고 당신 누군지 조차 아무 기억 나지않고, \r\n멀리 눈앞에 나타난 낯익은 여자가 작은 식당으로 들어가자 당신은 홀린듯 \r\n그녀를 따라 식당에 발을 들이게 되는데... ",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 70,
+      "poster_loc": "둠 이스케이프 1호점/기담정",
+      "ref_id": 1772,
+      "score_activity": 2.42857,
+      "score_difficulty": 4,
+      "score_fear": 1,
+      "score_satisfy": 4.71429,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "둠 이스케이프 1호점/thumb_기담정",
+      "reserve_url": "https://doomescape.com/layout/res/home.php?rev_days=2024-01-17&s_zizum=1&go=rev.make",
+      "reserve_times": [
+        "21:30",
+        "23:00"
+      ],
+      "reserve_times_int": [
+        1290,
+        1380
+      ],
+      "activityReviewCount": 115,
+      "difficultyRateTotal": 1093,
+      "difficultyReviewCount": 353,
+      "fearRateTotal": 74.5,
+      "fearReviewCount": 112,
+      "interiorRateTotal": 446.5,
+      "interiorReviewCount": 117,
+      "isRecommendedTotal": 467,
+      "problemRateTotal": 402.5,
+      "problemReviewCount": 110,
+      "recommendReviewCount": 476,
+      "reviewCount": 700,
+      "satisfyRateTotal": 1405,
+      "satisfyReviewCount": 356,
+      "store_tel": "032-425-1737",
+      "store_homepage": "http://www.doomescape.com/web/home.php",
+      "storyRateTotal": 469,
+      "storyReviewCount": 118,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8271428571428572,
+      "difficultyTotalRating": 3.096317280453258,
+      "fearTotalRating": 0.6651785714285714,
+      "activityTotalRating": 1.291304347826087,
+      "satisfyTotalRating": 3.946629213483146,
+      "problemTotalRating": 3.659090909090909,
+      "storyTotalRating": 3.9745762711864407,
+      "interiorTotalRating": 3.816239316239317,
+      "actRateTotal": 404,
+      "actReviewCount": 115,
+      "activityRateTotal": 148.5,
+      "actTotalRating": 3.5130434782608697,
+      "dup_code": 1772,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-28&s_zizum=1&go=rev.make",
+      "reserve_times_d1": [
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00",
+        "18:30",
+        "20:00",
+        "23:00"
+      ],
+      "reserve_times_int_d1": [
+        660,
+        750,
+        930,
+        1020,
+        1110,
+        1200,
+        1380
+      ],
+      "reserve_url_d3": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-30&s_zizum=1&go=rev.make",
+      "reserve_times_d3": [
+        "14:00",
+        "20:00",
+        "23:00",
+        "24:30"
+      ],
+      "reserve_times_int_d3": [
+        840,
+        1200,
+        1380,
+        1470
+      ],
+      "reserve_url_d2": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-29&s_zizum=1&go=rev.make",
+      "reserve_times_d2": [
+        "12:30",
+        "14:00",
+        "17:00",
+        "18:30",
+        "20:00",
+        "21:30",
+        "24:30"
+      ],
+      "reserve_times_int_d2": [
+        750,
+        840,
+        1020,
+        1110,
+        1200,
+        1290,
+        1470
+      ],
+      "reserve_url_d0": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-27&s_zizum=1&go=rev.make",
+      "reserve_times_d0": [
+        "23:00"
+      ],
+      "reserve_times_int_d0": [
+        1380
+      ],
+      "reserve_url_d4": "https://doomescape.com/layout/res/home.php?rev_days=2024-03-31&s_zizum=1&go=rev.make",
+      "reserve_times_d4": [
+        "11:00",
+        "14:00",
+        "21:30",
+        "23:00"
+      ],
+      "reserve_times_int_d4": [
+        660,
+        840,
+        1290,
+        1380
+      ],
+      "reserve_url_d5": "https://doomescape.com/layout/res/home.php?rev_days=2024-04-01&s_zizum=1&go=rev.make",
+      "reserve_times_d5": [
+        "11:00",
+        "12:30",
+        "15:30",
+        "17:00",
+        "18:30",
+        "21:30",
+        "23:00"
+      ],
+      "reserve_times_int_d5": [
+        660,
+        750,
+        930,
+        1020,
+        1110,
+        1290,
+        1380
+      ],
+      "reserve_url_d6": "https://doomescape.com/layout/res/home.php?rev_days=2024-04-02&s_zizum=1&go=rev.make",
+      "reserve_times_d6": [
+        "11:00",
+        "12:30",
+        "14:00",
+        "17:00",
+        "18:30",
+        "20:00",
+        "23:00"
+      ],
+      "reserve_times_int_d6": [
+        660,
+        750,
+        840,
+        1020,
+        1110,
+        1200,
+        1380
+      ]
+    },
+    {
+      "title": "마음을 그려드립니다",
+      "nicknames": [
+        "마그드",
+        "마그다",
+        "ㅁㅇㅇㄱㄹㄷㄹㄴㄷ",
+        "ㅁㄱㄷ"
+      ],
+      "letters": [
+        "마",
+        "음",
+        "음을",
+        "을",
+        "그",
+        "그려",
+        "그려드",
+        "그려드립",
+        "려",
+        "려드",
+        "려드립",
+        "려드립니",
+        "드",
+        "드립",
+        "드립니",
+        "드립니다",
+        "립",
+        "립니",
+        "립니다",
+        "니",
+        "니다",
+        "다",
+        "마그",
+        "마그드",
+        "그드",
+        "마그다",
+        "그다",
+        "ㅁ",
+        "ㅁㅇ",
+        "ㅁㅇㅇ",
+        "ㅁㅇㅇㄱ",
+        "ㅇ",
+        "ㅇㅇ",
+        "ㅇㅇㄱ",
+        "ㅇㅇㄱㄹ",
+        "ㅇㄱ",
+        "ㅇㄱㄹ",
+        "ㅇㄱㄹㄷ",
+        "ㄱ",
+        "ㄱㄹ",
+        "ㄱㄹㄷ",
+        "ㄱㄹㄷㄹ",
+        "ㄹ",
+        "ㄹㄷ",
+        "ㄹㄷㄹ",
+        "ㄹㄷㄹㄴ",
+        "ㄷ",
+        "ㄷㄹ",
+        "ㄷㄹㄴ",
+        "ㄷㄹㄴㄷ",
+        "ㄹㄴ",
+        "ㄹㄴㄷ",
+        "ㄴ",
+        "ㄴㄷ",
+        "ㅁㄱ",
+        "ㅁㄱㄷ",
+        "ㄱㄷ"
+      ],
+      "store_name": "비트포비아 강남 던전",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "강남",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.497514,
+        "lng": 127.0310602
+      },
+      "address": "서울 강남구 강남대로 84길 33",
+      "description": "감정의 색을 모아 당신의 마음을 그려드립니다.",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 60,
+      "poster_loc": "비트포비아 강남 던전/마음을 그려드립니다",
+      "ref_id": 1994,
+      "score_activity": 2.625,
+      "score_difficulty": 2.91667,
+      "score_fear": 0.291667,
+      "score_satisfy": 4.25,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "비트포비아 강남 던전/thumb_마음을 그려드립니다",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 159,
+      "difficultyRateTotal": 1122.5,
+      "difficultyReviewCount": 404,
+      "fearRateTotal": 13,
+      "fearReviewCount": 116,
+      "interiorRateTotal": 575,
+      "interiorReviewCount": 147,
+      "isRecommendedTotal": 456,
+      "problemRateTotal": 498.5,
+      "problemReviewCount": 141,
+      "recommendReviewCount": 471,
+      "reviewCount": 779,
+      "satisfyRateTotal": 1509.5,
+      "satisfyReviewCount": 398,
+      "store_tel": "02-555-4360",
+      "store_homepage": "https://xdungeon.net/layout/res/home.php?go=rev.main&s_zizum=2",
+      "storyRateTotal": 567.5,
+      "storyReviewCount": 150,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.7830551989730423,
+      "difficultyTotalRating": 2.7784653465346536,
+      "fearTotalRating": 0.11206896551724138,
+      "activityTotalRating": 2.352201257861635,
+      "satisfyTotalRating": 3.792713567839196,
+      "problemTotalRating": 3.535460992907802,
+      "storyTotalRating": 3.783333333333333,
+      "interiorTotalRating": 3.91156462585034,
+      "actRateTotal": 567,
+      "actReviewCount": 150,
+      "activityRateTotal": 374,
+      "actTotalRating": 3.78,
+      "dup_code": 1994,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "13:40",
+        "15:00",
+        "16:20",
+        "17:40",
+        "19:00",
+        "20:20",
+        "21:40",
+        "22:50"
+      ],
+      "d0_reserve_times_int": [
+        820,
+        900,
+        980,
+        1060,
+        1140,
+        1220,
+        1300,
+        1370
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "12:20",
+        "13:40",
+        "15:00",
+        "16:20",
+        "17:40",
+        "20:20",
+        "21:40",
+        "22:50"
+      ],
+      "d1_reserve_times_int": [
+        740,
+        820,
+        900,
+        980,
+        1060,
+        1220,
+        1300,
+        1370
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "12:20",
+        "13:40",
+        "15:00",
+        "16:20",
+        "17:40",
+        "20:20",
+        "21:40",
+        "22:50"
+      ],
+      "d2_reserve_times_int": [
+        740,
+        820,
+        900,
+        980,
+        1060,
+        1220,
+        1300,
+        1370
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "13:40",
+        "15:00",
+        "19:00",
+        "20:20",
+        "21:40",
+        "22:50"
+      ],
+      "d3_reserve_times_int": [
+        820,
+        900,
+        1140,
+        1220,
+        1300,
+        1370
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [
+        "10:20",
+        "22:20"
+      ],
+      "d4_reserve_times_int": [
+        620,
+        1340
+      ],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "10:20",
+        "13:00",
+        "14:20",
+        "15:40",
+        "17:00",
+        "18:20",
+        "19:40",
+        "21:00",
+        "22:20"
+      ],
+      "d5_reserve_times_int": [
+        620,
+        780,
+        860,
+        940,
+        1020,
+        1100,
+        1180,
+        1260,
+        1340
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=2&go=rev.main",
+      "reserve_times_d1": [
+        "12:20",
+        "16:20",
+        "17:40",
+        "19:00",
+        "22:50"
+      ],
+      "reserve_times_int_d1": [
+        740,
+        980,
+        1060,
+        1140,
+        1370
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=2&go=rev.main",
+      "reserve_times_d3": [
+        "11:40",
+        "21:00",
+        "22:20"
+      ],
+      "reserve_times_int_d3": [
+        700,
+        1260,
+        1340
+      ],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=2&go=rev.main",
+      "reserve_times_d2": [
+        "15:00",
+        "21:40",
+        "22:50"
+      ],
+      "reserve_times_int_d2": [
+        900,
+        1300,
+        1370
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=2&go=rev.main",
+      "reserve_times_d0": [
+        "22:50"
+      ],
+      "reserve_times_int_d0": [
+        1370
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=2&go=rev.main",
+      "reserve_times_d4": [
+        "10:20",
+        "19:40",
+        "21:00",
+        "22:20"
+      ],
+      "reserve_times_int_d4": [
+        620,
+        1180,
+        1260,
+        1340
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=2&go=rev.main",
+      "reserve_times_d5": [
+        "12:20",
+        "13:40",
+        "15:00",
+        "16:20",
+        "17:40",
+        "19:00",
+        "20:20",
+        "21:40",
+        "22:50"
+      ],
+      "reserve_times_int_d5": [
+        740,
+        820,
+        900,
+        980,
+        1060,
+        1140,
+        1220,
+        1300,
+        1370
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=2&go=rev.main",
+      "reserve_times_d6": [
+        "12:20",
+        "13:40",
+        "15:00",
+        "16:20",
+        "17:40",
+        "20:20",
+        "21:40",
+        "22:50"
+      ],
+      "reserve_times_int_d6": [
+        740,
+        820,
+        900,
+        980,
+        1060,
+        1220,
+        1300,
+        1370
+      ]
+    },
+    {
+      "title": "인생낚시",
+      "nicknames": [
+        "ㅇㅅㄴㅅ"
+      ],
+      "letters": [
+        "인",
+        "생",
+        "생낚",
+        "생낚시",
+        "낚",
+        "낚시",
+        "시",
+        "ㅇ",
+        "ㅇㅅ",
+        "ㅇㅅㄴ",
+        "ㅇㅅㄴㅅ",
+        "ㅅ",
+        "ㅅㄴ",
+        "ㅅㄴㅅ",
+        "ㄴ",
+        "ㄴㅅ"
+      ],
+      "store_name": "이스케이퍼스 2호점",
+      "store_nicknames": [
+        "이케퍼 2호점",
+        "escapers"
+      ],
+      "location": "홍대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5491687,
+        "lng": 126.9212688
+      },
+      "address": "서울시 마포구 와우산로 17길 19-24 지하",
+      "description": "내 이름은 김낚시\r\n고향에서 검은빛 바다를 보며 생각에 잠겼다.\r\n한 낚시꾼이 다가와 어디까지 낚아봤냐고 물었다.\r\n바다낚시 때 검은수염고래까지 낚아봤다고 했더니,\r\n아직 멀었다며 자신이 낚은 낚시컬렉션을 보여줄테니\r\n자신의 낚시배인 낚낚배에 타라고 했다.\r\n낚낚배는 낚낚소리를 내며 천천히 움직였다.\r\n낚시꾼은 어디갔을까?",
+      "isopen": true,
+      "player_count": 2,
+      "playtime": 60,
+      "poster_loc": "이스케이퍼스 2호점/인생낚시",
+      "ref_id": 2249,
+      "score_activity": 2.66667,
+      "score_difficulty": 3.66667,
+      "score_fear": 0.333333,
+      "score_satisfy": 4.66667,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 23000,
+      "thumb_loc": "이스케이퍼스 2호점/thumb_인생낚시",
+      "reserve_url": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times": [
+        "22:30"
+      ],
+      "reserve_times_int": [
+        1350
+      ],
+      "activityReviewCount": 102,
+      "difficultyRateTotal": 1271.5,
+      "difficultyReviewCount": 343,
+      "fearRateTotal": 18,
+      "fearReviewCount": 83,
+      "interiorRateTotal": 296,
+      "interiorReviewCount": 95,
+      "isRecommendedTotal": 444,
+      "problemRateTotal": 373.5,
+      "problemReviewCount": 97,
+      "recommendReviewCount": 458,
+      "reviewCount": 652,
+      "satisfyRateTotal": 1367.5,
+      "satisfyReviewCount": 345,
+      "store_tel": "010-6672-5216",
+      "store_homepage": "http://www.escapers.co.kr/",
+      "storyRateTotal": 297.5,
+      "storyReviewCount": 97,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8297546012269938,
+      "difficultyTotalRating": 3.706997084548105,
+      "fearTotalRating": 0.21686746987951808,
+      "activityTotalRating": 2.2745098039215685,
+      "satisfyTotalRating": 3.963768115942029,
+      "problemTotalRating": 3.850515463917526,
+      "storyTotalRating": 3.0670103092783507,
+      "interiorTotalRating": 3.1157894736842104,
+      "actRateTotal": 289.5,
+      "actReviewCount": 91,
+      "activityRateTotal": 232,
+      "actTotalRating": 3.181318681318681,
+      "dup_code": 2249,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d1": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "16:50",
+        "18:10",
+        "19:40",
+        "21:00",
+        "22:30"
+      ],
+      "reserve_times_int_d1": [
+        750,
+        840,
+        930,
+        1010,
+        1090,
+        1180,
+        1260,
+        1350
+      ],
+      "reserve_url_d3": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d3": [
+        "11:30",
+        "14:10",
+        "15:40",
+        "17:00",
+        "18:40",
+        "20:00",
+        "21:30"
+      ],
+      "reserve_times_int_d3": [
+        690,
+        850,
+        940,
+        1020,
+        1120,
+        1200,
+        1290
+      ],
+      "reserve_url_d2": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d2": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "16:50",
+        "18:10",
+        "19:40",
+        "22:30"
+      ],
+      "reserve_times_int_d2": [
+        750,
+        840,
+        930,
+        1010,
+        1090,
+        1180,
+        1350
+      ],
+      "reserve_url_d0": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d0": [
+        "22:30"
+      ],
+      "reserve_times_int_d0": [
+        1350
+      ],
+      "reserve_url_d4": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d4": [
+        "11:30",
+        "12:50",
+        "14:10",
+        "15:40",
+        "17:00",
+        "18:40",
+        "20:00",
+        "21:30"
+      ],
+      "reserve_times_int_d4": [
+        690,
+        770,
+        850,
+        940,
+        1020,
+        1120,
+        1200,
+        1290
+      ],
+      "reserve_url_d5": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d5": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "16:50",
+        "18:10",
+        "19:40",
+        "21:00",
+        "22:30"
+      ],
+      "reserve_times_int_d5": [
+        750,
+        840,
+        930,
+        1010,
+        1090,
+        1180,
+        1260,
+        1350
+      ],
+      "reserve_url_d6": "http://www.escapers.co.kr/reservation/2",
+      "reserve_times_d6": [
+        "12:30",
+        "14:00",
+        "15:30",
+        "16:50",
+        "18:10",
+        "19:40",
+        "21:00",
+        "22:30"
+      ],
+      "reserve_times_int_d6": [
+        750,
+        840,
+        930,
+        1010,
+        1090,
+        1180,
+        1260,
+        1350
+      ]
+    },
+    {
+      "title": "테마 팩토리",
+      "nicknames": [
+        "theme factory",
+        "ㅌㅁㅍㅌㄹ"
+      ],
+      "letters": [
+        "테",
+        "마",
+        "팩",
+        "팩토",
+        "팩토리",
+        "토",
+        "토리",
+        "리",
+        "t",
+        "th",
+        "the",
+        "them",
+        "h",
+        "he",
+        "hem",
+        "heme",
+        "e",
+        "em",
+        "eme",
+        "m",
+        "me",
+        "f",
+        "fa",
+        "fac",
+        "fact",
+        "a",
+        "ac",
+        "act",
+        "acto",
+        "c",
+        "ct",
+        "cto",
+        "ctor",
+        "to",
+        "tor",
+        "tory",
+        "o",
+        "or",
+        "ory",
+        "r",
+        "ry",
+        "y",
+        "ㅌ",
+        "ㅌㅁ",
+        "ㅌㅁㅍ",
+        "ㅌㅁㅍㅌ",
+        "ㅁ",
+        "ㅁㅍ",
+        "ㅁㅍㅌ",
+        "ㅁㅍㅌㄹ",
+        "ㅍ",
+        "ㅍㅌ",
+        "ㅍㅌㄹ",
+        "ㅌㄹ",
+        "ㄹ"
+      ],
+      "store_name": "룸즈에이 강남점",
+      "store_nicknames": [
+        "roomsa",
+        "강남룸즈에이",
+        "룸즈에이강남점"
+      ],
+      "location": "강남",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.4961737,
+        "lng": 127.0306749
+      },
+      "address": "서울 강남구 테헤란로 4길 35 지하2층",
+      "description": "강남점에 설치된 아스무어에 문제가 다수 발견되고 있습니다. 조속히 확인 바랍니다. * 테마 내 보너스 문제 해결 시 작은 기념품을 드립니다. (팀당 지급)",
+      "isopen": true,
+      "player_count": 0,
+      "playtime": 70,
+      "poster_loc": "룸즈에이 강남점/테마 팩토리",
+      "ref_id": 2651,
+      "score_activity": 0,
+      "score_difficulty": 0,
+      "score_fear": 0,
+      "score_satisfy": 0,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 24000,
+      "thumb_loc": "룸즈에이 강남점/thumb_테마 팩토리",
+      "reserve_url": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-01-17&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times": [
+        "22:20"
+      ],
+      "reserve_times_int": [
+        1340
+      ],
+      "activityReviewCount": 113,
+      "difficultyRateTotal": 1140,
+      "difficultyReviewCount": 346,
+      "fearRateTotal": 8.5,
+      "fearReviewCount": 90,
+      "interiorRateTotal": 421.5,
+      "interiorReviewCount": 106,
+      "isRecommendedTotal": 442,
+      "problemRateTotal": 438,
+      "problemReviewCount": 107,
+      "recommendReviewCount": 458,
+      "reviewCount": 648,
+      "satisfyRateTotal": 1366.5,
+      "satisfyReviewCount": 341,
+      "store_tel": "02-558-7546",
+      "store_homepage": "http://roomsa.co.kr/",
+      "storyRateTotal": 350.5,
+      "storyReviewCount": 103,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8287037037037037,
+      "difficultyTotalRating": 3.2947976878612715,
+      "fearTotalRating": 0.09444444444444444,
+      "activityTotalRating": 2.672566371681416,
+      "satisfyTotalRating": 4.007331378299121,
+      "problemTotalRating": 4.093457943925234,
+      "storyTotalRating": 3.4029126213592233,
+      "interiorTotalRating": 3.9764150943396226,
+      "actRateTotal": 369,
+      "actReviewCount": 103,
+      "activityRateTotal": 302,
+      "actTotalRating": 3.5825242718446604,
+      "dup_code": 2651,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-26&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d1": [
+        "11:00",
+        "12:25",
+        "13:50",
+        "15:15",
+        "16:40",
+        "18:05",
+        "19:30",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d1": [
+        660,
+        745,
+        830,
+        915,
+        1000,
+        1085,
+        1170,
+        1255,
+        1340
+      ],
+      "reserve_url_d3": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-28&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d3": [
+        "11:00",
+        "12:25",
+        "13:50",
+        "15:15",
+        "16:40",
+        "18:05",
+        "19:30",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d3": [
+        660,
+        745,
+        830,
+        915,
+        1000,
+        1085,
+        1170,
+        1255,
+        1340
+      ],
+      "reserve_url_d2": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-27&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d2": [
+        "11:00",
+        "12:25",
+        "13:50",
+        "15:15",
+        "16:40",
+        "19:30",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d2": [
+        660,
+        745,
+        830,
+        915,
+        1000,
+        1170,
+        1255,
+        1340
+      ],
+      "reserve_url_d0": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-25&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d0": [
+        "11:00",
+        "12:25",
+        "13:50",
+        "15:15",
+        "16:40",
+        "18:05",
+        "19:30",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d0": [
+        660,
+        745,
+        830,
+        915,
+        1000,
+        1085,
+        1170,
+        1255,
+        1340
+      ],
+      "reserve_url_d4": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-29&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d4": [
+        "11:00",
+        "12:25",
+        "13:50",
+        "15:15",
+        "16:40",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d4": [
+        660,
+        745,
+        830,
+        915,
+        1000,
+        1255,
+        1340
+      ],
+      "reserve_url_d5": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-30&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d5": [
+        "11:00",
+        "12:25",
+        "15:15",
+        "16:40",
+        "18:05",
+        "19:30",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d5": [
+        660,
+        745,
+        915,
+        1000,
+        1085,
+        1170,
+        1255,
+        1340
+      ],
+      "reserve_url_d6": "http://roomsa.co.kr/sub/sub04.asp?R_JIJEM=S14&chois_date=2024-03-31&R_THEMA=Roomsa_R52&DIS_T=#time",
+      "reserve_times_d6": [
+        "11:00",
+        "12:25",
+        "13:50",
+        "15:15",
+        "16:40",
+        "18:05",
+        "19:30",
+        "20:55",
+        "22:20"
+      ],
+      "reserve_times_int_d6": [
+        660,
+        745,
+        830,
+        915,
+        1000,
+        1085,
+        1170,
+        1255,
+        1340
+      ]
+    },
+    {
+      "title": "고양학개론",
+      "nicknames": [
+        "ㄱㅇㅎㄱㄹ"
+      ],
+      "letters": [
+        "고",
+        "양",
+        "양학",
+        "양학개",
+        "양학개론",
+        "학",
+        "학개",
+        "학개론",
+        "개",
+        "개론",
+        "론",
+        "ㄱ",
+        "ㄱㅇ",
+        "ㄱㅇㅎ",
+        "ㄱㅇㅎㄱ",
+        "ㅇ",
+        "ㅇㅎ",
+        "ㅇㅎㄱ",
+        "ㅇㅎㄱㄹ",
+        "ㅎ",
+        "ㅎㄱ",
+        "ㅎㄱㄹ",
+        "ㄱㄹ",
+        "ㄹ"
+      ],
+      "store_name": "이스케이프 # 건대점",
+      "store_nicknames": [
+        "이케샵",
+        "이케샾",
+        "이스케이프 샵",
+        "이스케이프 샾"
+      ],
+      "location": "건대",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.5426245,
+        "lng": 127.071481
+      },
+      "address": "서울 광진구 능동로 129-1 포토에이스 건물 2층, 3층",
+      "description": "경기도 고양시 고양고교를 졸업하고\n\n고향을 떠나고 싶지 않은 마음에\n\n고대로 고양대학교에 진학하게 된 당신은\n\n새 학기 한껏 고양된 기분으로\n\n고영희 교수님의 교양수업 ‘고양학개론’을 듣게 되는데...\n\n\n\n* 난이도 : 조금 어려움",
+      "isopen": true,
+      "playtime": 60,
+      "poster_loc": "이스케이프 _SHARP_ 건대점/고양학개론",
+      "ref_id": 3541,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 23000,
+      "thumb_loc": "이스케이프 _SHARP_ 건대점/thumb_고양학개론",
+      "reserve_url": "https://plit.me/cafe/5",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 126,
+      "difficultyRateTotal": 796,
+      "difficultyReviewCount": 282,
+      "fearRateTotal": 28,
+      "fearReviewCount": 109,
+      "interiorRateTotal": 479,
+      "interiorReviewCount": 117,
+      "isRecommendedTotal": 429,
+      "problemRateTotal": 445.5,
+      "problemReviewCount": 115,
+      "recommendReviewCount": 441,
+      "reviewCount": 572,
+      "satisfyRateTotal": 1123.5,
+      "satisfyReviewCount": 276,
+      "store_tel": "02-466-3667",
+      "store_homepage": "https://plit.me/cafe/5",
+      "storyRateTotal": 413.5,
+      "storyReviewCount": 114,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.8645104895104896,
+      "difficultyTotalRating": 2.8226950354609928,
+      "fearTotalRating": 0.25688073394495414,
+      "activityTotalRating": 1.5595238095238095,
+      "satisfyTotalRating": 4.070652173913044,
+      "problemTotalRating": 3.873913043478261,
+      "storyTotalRating": 3.627192982456141,
+      "interiorTotalRating": 4.094017094017094,
+      "actRateTotal": 433,
+      "actReviewCount": 113,
+      "activityRateTotal": 196.5,
+      "actTotalRating": 3.831858407079646,
+      "dup_code": 3541,
+      "isunique": true,
+      "renew": "FALSE",
+      "reserve_url_d1": "https://plit.me/cafe/5",
+      "reserve_times_d1": [
+        "11:10",
+        "12:25",
+        "21:10",
+        "22:25"
+      ],
+      "reserve_times_int_d1": [
+        670,
+        745,
+        1270,
+        1345
+      ],
+      "reserve_url_d3": "https://plit.me/cafe/5",
+      "reserve_times_d3": [
+        "17:25",
+        "18:40",
+        "19:55",
+        "21:10",
+        "22:25"
+      ],
+      "reserve_times_int_d3": [
+        1045,
+        1120,
+        1195,
+        1270,
+        1345
+      ],
+      "reserve_url_d2": "https://plit.me/cafe/5",
+      "reserve_times_d2": [
+        "12:25",
+        "13:40",
+        "14:55",
+        "18:40",
+        "19:55",
+        "21:10",
+        "22:25"
+      ],
+      "reserve_times_int_d2": [
+        745,
+        820,
+        895,
+        1120,
+        1195,
+        1270,
+        1345
+      ],
+      "reserve_url_d0": "https://plit.me/cafe/5",
+      "reserve_times_d0": [
+        "22:25"
+      ],
+      "reserve_times_int_d0": [
+        1345
+      ],
+      "reserve_url_d4": "https://plit.me/cafe/5",
+      "reserve_times_d4": [
+        "11:10",
+        "12:25",
+        "18:40",
+        "19:55",
+        "21:10",
+        "22:25"
+      ],
+      "reserve_times_int_d4": [
+        670,
+        745,
+        1120,
+        1195,
+        1270,
+        1345
+      ],
+      "reserve_url_d5": "https://plit.me/cafe/5",
+      "reserve_times_d5": [
+        "11:10",
+        "12:25",
+        "13:40",
+        "14:55",
+        "16:10",
+        "17:25",
+        "19:55",
+        "21:10",
+        "22:25"
+      ],
+      "reserve_times_int_d5": [
+        670,
+        745,
+        820,
+        895,
+        970,
+        1045,
+        1195,
+        1270,
+        1345
+      ],
+      "reserve_url_d6": "https://plit.me/cafe/5",
+      "reserve_times_d6": [
+        "11:10",
+        "12:25",
+        "13:40",
+        "14:55",
+        "16:10",
+        "17:25",
+        "18:40",
+        "19:55",
+        "21:10",
+        "22:25"
+      ],
+      "reserve_times_int_d6": [
+        670,
+        745,
+        820,
+        895,
+        970,
+        1045,
+        1120,
+        1195,
+        1270,
+        1345
+      ],
+      "reserve_url_d": "https://plit.me/cafe/5",
+      "reserve_times_d": [
+        "22:25"
+      ],
+      "reserve_times_int_d": [
+        1345
+      ]
+    },
+    {
+      "title": "LOST KINGDOM : 잊혀진 전설",
+      "nicknames": [
+        "로킹",
+        "로스트킹덤",
+        "ㄹㅅㅌㅋㄷㅇㅎㅈㅈㅅ"
+      ],
+      "letters": [
+        "L",
+        "O",
+        "OS",
+        "OST",
+        "S",
+        "ST",
+        "T",
+        "K",
+        "KI",
+        "KIN",
+        "KING",
+        "I",
+        "IN",
+        "ING",
+        "INGD",
+        "N",
+        "NG",
+        "NGD",
+        "NGDO",
+        "G",
+        "GD",
+        "GDO",
+        "GDOM",
+        "D",
+        "DO",
+        "DOM",
+        "OM",
+        "M",
+        ":",
+        "잊",
+        "잊혀",
+        "잊혀진",
+        "혀",
+        "혀진",
+        "진",
+        "전",
+        "전설",
+        "설",
+        "로",
+        "로킹",
+        "킹",
+        "로스",
+        "로스트",
+        "로스트킹",
+        "스",
+        "스트",
+        "스트킹",
+        "스트킹덤",
+        "트",
+        "트킹",
+        "트킹덤",
+        "킹덤",
+        "덤",
+        "ㄹ",
+        "ㄹㅅ",
+        "ㄹㅅㅌ",
+        "ㄹㅅㅌㅋ",
+        "ㅅ",
+        "ㅅㅌ",
+        "ㅅㅌㅋ",
+        "ㅅㅌㅋㄷ",
+        "ㅌ",
+        "ㅌㅋ",
+        "ㅌㅋㄷ",
+        "ㅌㅋㄷㅇ",
+        "ㅋ",
+        "ㅋㄷ",
+        "ㅋㄷㅇ",
+        "ㅋㄷㅇㅎ",
+        "ㄷ",
+        "ㄷㅇ",
+        "ㄷㅇㅎ",
+        "ㄷㅇㅎㅈ",
+        "ㅇ",
+        "ㅇㅎ",
+        "ㅇㅎㅈ",
+        "ㅇㅎㅈㅈ",
+        "ㅎ",
+        "ㅎㅈ",
+        "ㅎㅈㅈ",
+        "ㅎㅈㅈㅅ",
+        "ㅈ",
+        "ㅈㅈ",
+        "ㅈㅈㅅ",
+        "ㅈㅅ"
+      ],
+      "store_name": "비트포비아 강남 던전",
+      "store_nicknames": [
+        "beat phobia",
+        "xphobia",
+        "비포"
+      ],
+      "location": "강남",
+      "area": "서울",
+      "_geo": {
+        "lat": 37.497514,
+        "lng": 127.0310602
+      },
+      "address": "서울 강남구 강남대로 84길 33",
+      "description": "전설 속의 왕국, 아틀란티스는 과연 존재하는가?\r\n\r\n \r\n\r\n가문 대대로 아틀란티스에 관한 고고학 연구를 지속하고 있는\r\n\r\n키스콥 가문의 고고학자인 당신은\r\n\r\n어느 날 발신인을 알 수 없는 편지를 받게 된다.\r\n\r\n \r\n\r\n편지에는 놀랍게도 아틀란티스의 위치를 알리는 실마리가 적혀 있었고.\r\n\r\n실마리를 따라 도착한 곳은 버뮤다 해협에 있는 한 무인도의 좁은 동굴이었다.\r\n\r\n \r\n\r\n그곳에 도착한 당신은 동굴 안을 좀 더 자세히 살펴보기로 하는데…",
+      "isopen": true,
+      "player_count": 3,
+      "playtime": 60,
+      "poster_loc": "비트포비아 강남 던전/LOST KINGDOM : 잊혀진 전설",
+      "ref_id": 1974,
+      "score_activity": 4.25,
+      "score_difficulty": 3.33333,
+      "score_fear": 0.583333,
+      "score_satisfy": 4.08333,
+      "special_tags": [
+        ""
+      ],
+      "store_isopen": true,
+      "tags": [
+        ""
+      ],
+      "price": 25000,
+      "thumb_loc": "비트포비아 강남 던전/thumb_LOST KINGDOM : 잊혀진 전설",
+      "reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "reserve_times": [],
+      "reserve_times_int": [],
+      "activityReviewCount": 163,
+      "difficultyRateTotal": 1123.5,
+      "difficultyReviewCount": 392,
+      "fearRateTotal": 50.5,
+      "fearReviewCount": 120,
+      "interiorRateTotal": 561.5,
+      "interiorReviewCount": 139,
+      "isRecommendedTotal": 428,
+      "problemRateTotal": 455,
+      "problemReviewCount": 130,
+      "recommendReviewCount": 449,
+      "reviewCount": 759,
+      "satisfyRateTotal": 1432.5,
+      "satisfyReviewCount": 387,
+      "store_tel": "02-555-4360",
+      "store_homepage": "https://xdungeon.net/layout/res/home.php?go=rev.main&s_zizum=2",
+      "storyRateTotal": 446.5,
+      "storyReviewCount": 133,
+      "store_special_tags": "",
+      "recommendTotalRating": 0.7681159420289856,
+      "difficultyTotalRating": 2.8660714285714284,
+      "fearTotalRating": 0.42083333333333334,
+      "activityTotalRating": 3.754601226993865,
+      "satisfyTotalRating": 3.701550387596899,
+      "problemTotalRating": 3.5,
+      "storyTotalRating": 3.357142857142857,
+      "interiorTotalRating": 4.039568345323741,
+      "actRateTotal": 481.5,
+      "actReviewCount": 134,
+      "activityRateTotal": 612,
+      "actTotalRating": 3.593283582089552,
+      "dup_code": 1974,
+      "isunique": true,
+      "renew": "FALSE",
+      "d0_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d0_reserve_times": [
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "21:30",
+        "22:50"
+      ],
+      "d0_reserve_times_int": [
+        810,
+        890,
+        970,
+        1050,
+        1290,
+        1370
+      ],
+      "d1_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d1_reserve_times": [
+        "13:30",
+        "14:50",
+        "17:30",
+        "18:50",
+        "20:10",
+        "21:30",
+        "22:50"
+      ],
+      "d1_reserve_times_int": [
+        810,
+        890,
+        1050,
+        1130,
+        1210,
+        1290,
+        1370
+      ],
+      "d2_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d2_reserve_times": [
+        "13:30",
+        "14:50",
+        "16:10",
+        "22:50"
+      ],
+      "d2_reserve_times_int": [
+        810,
+        890,
+        970,
+        1370
+      ],
+      "d3_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d3_reserve_times": [
+        "22:50"
+      ],
+      "d3_reserve_times_int": [
+        1370
+      ],
+      "d4_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d4_reserve_times": [
+        "10:30",
+        "22:30"
+      ],
+      "d4_reserve_times_int": [
+        630,
+        1350
+      ],
+      "d5_reserve_url": "https://www.xphobia.net/reservation/reservation_check.php",
+      "d5_reserve_times": [
+        "21:10",
+        "22:30"
+      ],
+      "d5_reserve_times_int": [
+        1270,
+        1350
+      ],
+      "reserve_url_d1": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-28&s_zizum=2&go=rev.main",
+      "reserve_times_d1": [
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "21:30",
+        "22:50"
+      ],
+      "reserve_times_int_d1": [
+        810,
+        890,
+        970,
+        1050,
+        1290,
+        1370
+      ],
+      "reserve_url_d3": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-30&s_zizum=2&go=rev.main",
+      "reserve_times_d3": [],
+      "reserve_times_int_d3": [],
+      "reserve_url_d2": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-29&s_zizum=2&go=rev.main",
+      "reserve_times_d2": [
+        "12:10",
+        "14:50",
+        "16:10",
+        "17:30"
+      ],
+      "reserve_times_int_d2": [
+        730,
+        890,
+        970,
+        1050
+      ],
+      "reserve_url_d0": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-27&s_zizum=2&go=rev.main",
+      "reserve_times_d0": [
+        "22:50"
+      ],
+      "reserve_times_int_d0": [
+        1370
+      ],
+      "reserve_url_d4": "https://xdungeon.net/layout/res/home.php?rev_days=2024-03-31&s_zizum=2&go=rev.main",
+      "reserve_times_d4": [
+        "19:50",
+        "22:30"
+      ],
+      "reserve_times_int_d4": [
+        1190,
+        1350
+      ],
+      "reserve_url_d5": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-01&s_zizum=2&go=rev.main",
+      "reserve_times_d5": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "16:10",
+        "17:30",
+        "20:10",
+        "22:50"
+      ],
+      "reserve_times_int_d5": [
+        730,
+        810,
+        890,
+        970,
+        1050,
+        1210,
+        1370
+      ],
+      "reserve_url_d6": "https://xdungeon.net/layout/res/home.php?rev_days=2024-04-02&s_zizum=2&go=rev.main",
+      "reserve_times_d6": [
+        "12:10",
+        "13:30",
+        "14:50",
+        "17:30",
+        "18:50",
+        "20:10",
+        "22:50"
+      ],
+      "reserve_times_int_d6": [
+        730,
+        810,
+        890,
+        1050,
+        1130,
+        1210,
+        1370
+      ]
+    }
+  ],
+  "nbHits": 421,
+  "exhaustiveNbHits": false,
+  "query": "",
+  "limit": 20,
+  "offset": 0,
+  "processingTimeMs": 13
+}
